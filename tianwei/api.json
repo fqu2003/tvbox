@@ -48,31 +48,17 @@
       }
     },
     
-   
+   {
+      "key": "ysp",
+      "name": "电视直播|1080",
+      "api": "csp_WvSpider",
+      "type": "3",
+      "jar":"./lib/kk.jar",
+      "ext": "./lib/央视频.js"
+    },
                
     
-    {
-      "key": "央库云",
-      "name": "☀央视🔹大全",
-      "type": 3,
-      "api": "./lib/央库云.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "央视影视",
-      "name": "☀央视🔹栏目",
-      "type": 3,
-      "api": "./lib/央视影视.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
+    
     
     
     {
@@ -1084,7 +1070,28 @@
       },
       "gridview": "0-0-4.1"
     },
-    
+    {
+      "key": "央库云",
+      "name": "☀央视🔹大全",
+      "type": 3,
+      "api": "./lib/央库云.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "央视影视",
+      "name": "☀央视🔹栏目",
+      "type": 3,
+      "api": "./lib/央视影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
     {
       "key": "虎牙直播",
       "name": "☀虎牙🔹直播",
