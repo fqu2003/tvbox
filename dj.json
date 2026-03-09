@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/ok.jar;md5;5ba5cb4a1820aa13ffa0ed0c1869788d",
+    "spider": "https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jar/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
     "logo": "./jpg/logo2.png",
     "sites": [
