@@ -1,4 +1,4 @@
-咪咕直播,#genre#
+央视频道,#genre#
 CCTV-01,http://t.061899.xyz/tl/tl.php?id=cctv1
 CCTV-02,http://t.061899.xyz/tl/tl.php?id=cctv2
 CCTV-03,http://t.061899.xyz/tl/tl.php?id=cctv3
@@ -64,7 +64,7 @@ CGTN-西,http://j.s.bkpcp.top/jj/cgtne
 CGTN-阿,http://j.s.bkpcp.top/jj/cgtna
 CGTN-法,http://j.s.bkpcp.top/jj/cgtnf
 
-卫视,#genre#
+卫视频道,#genre#
 北京卫视,http://t.061899.xyz/tl/tl.php?id=bjws
 东方卫视,http://t.061899.xyz/tl/tl.php?id=dfws
 浙江卫视咪咕4K,http://t.061899.xyz/tl/tl.php?id=zjws
