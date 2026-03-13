@@ -1,55 +1,51 @@
 {
-    "spider": "./jar/ok.jar;md5;5ba5cb4a1820aa13ffa0ed0c1869788d",
+    "spider": "./spider.jar",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
     "logo": "./jpg/logo2.png",
     "sites": [
-    {"key":"盒马短剧","name":"🦓盒马┃短剧","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext": {"sp": "HeMa"}, "timeout":10},
-    {"key":"星芽短剧","name":"💖星芽┃短剧","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext": {"sp": "AppXY"}, "timeout":10},
-    {"key":"碎片短剧","name":"🧸碎片┃短剧","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext": {"sp": "SuiPian"}, "timeout":10},
-    {"key":"甜圈短剧","name":"🌸甜圈┃短剧","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext": {"sp": "TianQuan"}, "timeout":10},
-           
-      {
+        {
             "key": "甜圈短剧",
             "name": "甜圈｜短剧",
             "type": 3,
             "api": "csp_TianquanDJ",
-             "jar":"https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260218/vhZG/02181046.png;md5;75be80299f300d0ea14e72bb28c8038c",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "genre": "shortdrama"
         },
         {
             "key": "锦鲤短剧",
             "name": "锦鲤｜短剧",
             "type": 3,
             "api": "csp_JinliDJ",
-             "jar":"https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260218/vhZG/02181046.png;md5;75be80299f300d0ea14e72bb28c8038c",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "genre": "shortdrama"
         },
         {
             "key": "星阁短剧",
             "name": "星阁｜短剧",
             "type": 3,
             "api": "csp_XinggeDJ",
-            "jar":"https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260218/vhZG/02181046.png;md5;75be80299f300d0ea14e72bb28c8038c",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "genre": "shortdrama"
         },
         {
-            "key": "星芽短剧",
-            "name": "星芽｜短剧",
+            "key": "碎片",
+            "name": "碎片｜短剧",
             "type": 3,
-            "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/XYDJ.py",
+            "api": "csp_SuipianDJ",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "genre": "shortdrama"
         },
         {
             "key": "剧王短剧",
