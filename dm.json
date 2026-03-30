@@ -285,21 +285,19 @@
         "mozai.4gtv.tv"
     ],
     "lives": [
-        {
-            "name": "AI直播",
+      {
+            "name": "凤凰秀",
             "type": 0,
-            "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "MIGU",
-            "type": 0,
-            "url": "http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Ffy.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dbingchawusifengxian%26json%3Dtrue",
-            "playerType": 2,
-            "timeout": 10,
-            "ua": "bingcha/1.1 (mianfeifenxiang) "
-        },
+            "url": "http://bobohome.ignorelist.com:20247/fengshows/list",
+            "ua": "okhttp/5.3.2",
+            "epg": "http://bobohome.ignorelist.com:20247/fengshows/epg?ch={name}&date={date}",
+            "logo": "https://tv.bobohome.store:20243/app/epg/getlogo.php?ch={name}",
+            "catchup": {
+                "type": "append",
+                "source": "?playseek=${(b)yyyyMMddHHmmSS}-${(e)yyyyMMddHHmmSS}"
+            }
+        }，
+
         {
             "name": "电视Live",
             "type": 0,
