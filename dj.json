@@ -243,7 +243,8 @@
                 "type": "append",
                 "source": "?playseek=${(b)yyyyMMddHHmmSS}-${(e)yyyyMMddHHmmSS}"
             }
-        }，
+         },
+
         {
             "name": "电视Live",
             "type": 0,
