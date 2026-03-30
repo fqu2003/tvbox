@@ -285,18 +285,15 @@
         "mozai.4gtv.tv"
     ],
     "lives": [
-      {
+    {
             "name": "凤凰秀",
             "type": 0,
             "url": "http://bobohome.ignorelist.com:20247/fengshows/list",
-            "ua": "okhttp/5.3.2",
-            "epg": "http://bobohome.ignorelist.com:20247/fengshows/epg?ch={name}&date={date}",
-            "logo": "https://tv.bobohome.store:20243/app/epg/getlogo.php?ch={name}",
-            "catchup": {
-                "type": "append",
-                "source": "?playseek=${(b)yyyyMMddHHmmSS}-${(e)yyyyMMddHHmmSS}"
-            }
-          },
+            "playerType": 2,
+            "ua": "okhttp/3.15",
+            "timeout": 10
+        },
+
 
         {
             "name": "电视Live",
