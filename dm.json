@@ -4,117 +4,171 @@
     "logo": "./jpg/logo2.png",
     "sites": [
         {
-      "key": "DuanJuHaoKan",
-      "name": "🍉短剧┃好看🍉",
+            "key": "Anime1",
+            "name": "A1｜动漫",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/Anime1.js"
+        },
+        {
+            "key": "漫国动漫",
+            "name": "漫国丨动漫",
+            "type": 3,
+            "searchable": 1,
+            "api": "csp_AppSy",
+            "ext": {
+                "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
+                "siteKey": "rectangleadsadxa",
+                "listKey": "aassddwwxxllsx1x",
+                "parsesKey": "aassddwwxxllsx1x"
+            }
+        },
+        {
+            "key": "丫丫动漫",
+            "name": "丫丫｜动漫",
+            "type": 3,
+            "searchable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://tv.yy-fun.cc",
+                "dataKey": "qkxnwkfjwpcnwycl",
+                "dataIv": "qkxnwkfjwpcnwycl"
+            }
+        },
+        {
+            "key": "方舟动漫",
+            "name": "方舟丨动漫",
+            "type": 3,
+            "searchable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.cyfz.top",
+                "dataKey": "e72cdfd629e8895d",
+                "dataIv": "e72cdfd629e8895d"
+            }
+        },
+        {
+            "key": "元咲动漫",
+            "name": "元咲丨动漫",
+            "type": 3,
+            "searchable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://cic.aicg.fun",
+                "dataKey": "2c4h36abd96se10u",
+                "dataIv": "2c4h36abd96se10u"
+            }
+        },
+        {
+            "key": "番薯动漫",
+            "name": "番薯丨动漫",
+            "type": 3,
+            "searchable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://new.app.bytegooty.com",
+                "dataKey": "N4yj7l7xKxHF4*gz",
+                "dataIv": "N4yj7l7xKxHF4*gz"
+            }
+        },
+        {
+            "key": "曼波动漫",
+            "name": "曼波｜动漫",
+            "type": 3,
+            "searchable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://app.omofun1.top",
+                "dataKey": "66dc309cbeeca454",
+                "dataIv": "66dc309cbeeca454"
+            }
+        },
+        {
+            "key": "咕咕动漫",
+            "name": "咕咕｜动漫",
+            "type": 3,
+            "searchable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.gugu3.com",
+                "dataKey": "nKfZ8KX6JTNWRzTD",
+                "dataIv": "nKfZ8KX6JTNWRzTD"
+            }
+        },
+        {
+            "key": "米饭动漫",
+            "name": "米饭｜动漫",
+            "type": 3,
+            "searchable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://get.mymifun.com",
+                "dataKey": "GETMIFUNGEIMIFUN",
+                "dataIv": "GETMIFUNGEIMIFUN"
+            }
+        },
+        {
+            "key": "樱花动漫",
+            "name": "樱花｜动漫",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./XBPQ/樱花动漫.json"
+        },
+        {
+            "key": "巴士动漫",
+            "name": "巴士｜动漫",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "ext": "./XYQHiker/巴士动漫.json"
+        },
+        {
+            "key": "花子动漫",
+            "name": "花子｜动漫",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/花子动漫.js"
+        },
+        {
+            "key": "爱动漫",
+            "name": "爱动漫｜动漫",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/爱动漫.js"
+        },
+        {
+            "key": "路漫漫",
+            "name": "路漫漫｜动漫",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/路漫漫.js"
+        },
+ {
+      "key": "AnimeMoDu",
+      "name": "🤡魔都┃动漫🤡",
       "type": 3,
-      "api": "csp_DuanJuHaoKanGuard",
-"jar": "https://aisearch.cdn.bcebos.com/fileManager/pzB7vSo_ZKMdkLpEH2KJFw/17744530360624RgVk3.txt;md5;8c05132f1f364e8bb152288059e403b6",
+      "api": "csp_AnimeMoDuGuard",
+ "jar": "https://aisearch.cdn.bcebos.com/fileManager/pzB7vSo_ZKMdkLpEH2KJFw/17744530360624RgVk3.txt;md5;8c05132f1f364e8bb152288059e403b6",
       "searchable": 1,
       "changeable": 1
     },
-	 {
-      "key": "DuanJuQiMiao",
-      "name": "🍉短剧┃小猫🍉",
+    {
+      "key": "AnimeGiriGiri",
+      "name": "🤡小爱┃动漫🤡",
       "type": 3,
-      "api": "csp_DuanJuQiMiaoGuard",
-"jar": "https://aisearch.cdn.bcebos.com/fileManager/pzB7vSo_ZKMdkLpEH2KJFw/17744530360624RgVk3.txt;md5;8c05132f1f364e8bb152288059e403b6",
+      "api": "csp_AnimeGiriGiriGuard",
+ "jar": "https://aisearch.cdn.bcebos.com/fileManager/pzB7vSo_ZKMdkLpEH2KJFw/17744530360624RgVk3.txt;md5;8c05132f1f364e8bb152288059e403b6",
       "searchable": 1,
       "changeable": 1
     },
-	 {
-      "key": "DuanJuHeMa",
-      "name": "🍉短剧┃小马🍉",
+    {
+      "key": "AnimeXiFan",
+      "name": "🤡稀饭┃动漫🤡",
       "type": 3,
-      "api": "csp_DuanJuHeMaGuard",
-"jar": "https://aisearch.cdn.bcebos.com/fileManager/pzB7vSo_ZKMdkLpEH2KJFw/17744530360624RgVk3.txt;md5;8c05132f1f364e8bb152288059e403b6",
+      "api": "csp_AnimeXiFanGuard",
+ "jar": "https://aisearch.cdn.bcebos.com/fileManager/pzB7vSo_ZKMdkLpEH2KJFw/17744530360624RgVk3.txt;md5;8c05132f1f364e8bb152288059e403b6",
       "searchable": 1,
       "changeable": 1
-    },
-	 {
-      "key": "DuanJuXingYa",
-      "name": "🍉短剧┃星星🍉",
-      "type": 3,
-      "api": "csp_DuanJuXingYaGuard",
-"jar": "https://aisearch.cdn.bcebos.com/fileManager/pzB7vSo_ZKMdkLpEH2KJFw/17744530360624RgVk3.txt;md5;8c05132f1f364e8bb152288059e403b6",
-      "searchable": 1,
-      "changeable": 1
-    },
-	 {
-      "key": "DuanJuWeiGuan",
-      "name": "🍉短剧┃小薇🍉",
-      "type": 3,
-      "api": "csp_DuanJuWeiGuanGuard",
-"jar": "https://aisearch.cdn.bcebos.com/fileManager/pzB7vSo_ZKMdkLpEH2KJFw/17744530360624RgVk3.txt;md5;8c05132f1f364e8bb152288059e403b6",
-      "searchable": 1,
-      "changeable": 1
-    }, 
-
-      {
-            "key": "甜圈短剧",
-            "name": "甜圈｜短剧",
-            "type": 3,
-            "api": "csp_TianquanDJ",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "genre": "shortdrama"
-        },
-{
-            "key": "星芽短剧",
-            "name": "星芽｜短剧",
-            "type": 3,
-            "api": "./py/星芽短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "genre": "shortdrama"
-        },
-
-        {
-            "key": "锦鲤短剧",
-            "name": "锦鲤｜短剧",
-            "type": 3,
-            "api": "csp_JinliDJ",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "genre": "shortdrama"
-        },
-        {
-            "key": "星阁短剧",
-            "name": "星阁｜短剧",
-            "type": 3,
-            "api": "csp_XinggeDJ",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "genre": "shortdrama"
-        },
-        {
-            "key": "碎片",
-            "name": "碎片｜短剧",
-            "type": 3,
-            "api": "csp_SuipianDJ",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "genre": "shortdrama"
-        },
-        {
-            "key": "剧王短剧",
-            "name": "剧王｜短剧",
-            "type": 3,
-            "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/JWDJ.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        }
+    }
     ],
     "parses": [
         {
