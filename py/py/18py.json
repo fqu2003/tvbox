@@ -1,0 +1,354 @@
+{
+    "wallpaper": "https://api.xk.ee/images",
+    "sites": [
+        {
+            "key": "hsck",
+            "name": "🔞黄色仓库〽️",
+            "type": 3,
+            "api": "./py/hsck.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "51吃瓜",
+            "name": "🔞51吃瓜〽️",
+            "type": 3,
+            "api": "./py/51吃瓜.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "javxx",
+            "name": "🔞javxx",
+            "type": 3,
+            "api": "./py/javxx.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "site": "https://missav.ai"
+            }
+        },
+        {
+            "key": "Xhamster",
+            "name": "🔞Xhamster",
+            "type": 3,
+            "api": "./py/Xhamster.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "Xvideos",
+            "name": "🔞Xvideos",
+            "type": 3,
+            "api": "./py/Xvideos.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "Pornhub",
+            "name": "🔞Pornhub",
+            "type": 3,
+            "api": "./py/Pornhub.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "Eporner",
+            "name": "🔞Eporner",
+            "type": 3,
+            "api": "./py/Eporner.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "Fullhd",
+            "name": "🔞FullHD",
+            "type": 3,
+            "api": "./py/Fullhd.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "黑料网",
+            "name": "🔞黑料网",
+            "type": 3,
+            "api": "./py/黑料网.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "javxbb",
+            "name": "🔞javxbb",
+            "type": 3,
+            "api": "./py/javxbb.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "今日看料",
+            "name": "🔞今日看料",
+            "type": 3,
+            "api": "./py/今日看料.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "玩具社区",
+            "name": "🔞玩具社区",
+            "type": 3,
+            "api": "./py/玩具社区.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "91pro",
+            "name": "🔞91pro",
+            "type": 3,
+            "api": "./py/91pro.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "好色TV",
+            "name": "🔞好色TV",
+            "type": 3,
+            "api": "./py/好色TV.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "肉视频/嗷",
+            "name": "🔞肉视频",
+            "type": 3,
+            "api": "./py/rsp.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                "proxy": {},
+                "plp": ""
+            }
+        },
+        {
+            "key": "神秘影院",
+            "name": "🔞神秘影院〽️",
+            "type": 3,
+            "api": "./py/神秘影院.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "小红薯APP",
+            "name": "🔞小红薯APP〽️",
+            "type": 3,
+            "api": "./py/小红薯APP.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "推特App",
+            "name": "🔞推特App〽️",
+            "type": 3,
+            "api": "./py/推特App.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "香蕉视频",
+            "name": "🔞香蕉视频〽️",
+            "type": 3,
+            "api": "./py/香蕉视频.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "色播聚合",
+            "name": "🔞色播聚合〽️",
+            "type": 3,
+            "api": "./py/色播聚合.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "麻豆/沐",
+            "name": "🔞91麻豆〽️",
+            "type": 4,
+            "api": "https://php.doube.eu.org/spider/php/麻豆.php",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "pandalive",
+            "name": "🔞直播PandaLive〽️",
+            "type": 3,
+            "api": "./py/pandalive.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "51吃瓜2",
+            "name": "🔞51吃瓜2",
+            "type": 3,
+            "api": "./py/51吃瓜2.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "book18有声",
+            "name": "🔞book18有声",
+            "type": 3,
+            "api": "./py/book18有声.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        }
+    ],
+    "lives": [
+        {
+            "name": "经典",
+            "type": 0,
+            "url": "https://cdn.jsdelivr.net/gh/fish2018/lib@main/txt/经典.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        }
+    ]
+} 
