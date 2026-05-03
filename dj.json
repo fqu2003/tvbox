@@ -231,6 +231,7 @@
     "ads": [
         "mozai.4gtv.tv"
     ],
+
     "lives": [
           
  {
@@ -242,7 +243,7 @@
             "timeout": 10
         },
 
-        {
+       {
             "name": "电视Live",
             "type": 0,
             "url": "http://127.0.0.1:9978/proxy?do=live&u=Gather",
