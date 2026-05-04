@@ -3,17 +3,8 @@
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "logo": "./jpg/logo2.png",
     "sites": [
-        {
-            "key": "兔小贝",
-            "name": "兔小贝｜首页",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/兔小贝.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
+        
+
       {
       "key": "腾讯视频",
       "name": "☀腾讯儿童",
@@ -31,7 +22,18 @@
       "ext": "./tianwei/lib/优酷视频.js"
     },
 
-        {
+{
+            "key": "兔小贝",
+            "name": "兔小贝｜首页",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/兔小贝.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+     {
             "key": "贝乐虎",
             "name": "贝乐虎｜儿童",
             "type": 3,
@@ -42,6 +44,7 @@
                 "ratio": 1.597
             }
         },
+   
         {
             "key": "儿童拼音",
             "name": "儿童拼音｜哔哩",
