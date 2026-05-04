@@ -3,24 +3,24 @@
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "logo": "./jpg/logo2.png",
     "sites": [
-        
-
-      {
-      "key": "腾讯视频",
-      "name": "☀腾讯儿童",
+        {
+      "key": "腾讯少儿",
+      "name": "☀少儿1",
       "type": 3,
       "api": "./tianwei/lib/drpy2.min.js",
      "jar": "./tianwei/spider.jar",
-     "ext": "./tianwei/lib/腾讯少儿.js"
+      "ext": "./tianwei/lib/腾讯少儿.js"
     },
     {
-      "key": "优酷视频",
-      "name": "☀优酷少儿",
+      "key": "优酷少儿",
+      "name": "☀少儿2",
       "type": 3,
       "api": "./tianwei/lib/drpy2.min.js",
-      "jar": "./tianwei/spider.jar",
-      "ext": "./tianwei/lib/优酷视频.js"
+        "jar": "./tianwei/spider.jar",
+      "ext": "./tianwei/lib/优酷少儿.js"
     },
+
+      
 
 {
             "key": "兔小贝",
