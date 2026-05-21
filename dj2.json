@@ -4,7 +4,7 @@
     "sites": [
 
      {
-      "key": "DuanJuHaoKan",
+      "key": "短剧┃好看[短]",
       "name": "🔶老张丨短剧┃好看",
       "type": 3,
       "api": "csp_DuanJuHaoKanGuard",
@@ -13,7 +13,7 @@
       "changeable": 1
     },
 	 {
-      "key": "DuanJuQiMiao",
+      "key": "短剧┃小猫[短]",
       "name": "🔶老张丨短剧┃小猫",
       "type": 3,
       "api": "csp_DuanJuQiMiaoGuard",
@@ -22,7 +22,7 @@
       "changeable": 1
     },
 	 {
-      "key": "DuanJuHeMa",
+      "key": "短剧┃小马[短]",
       "name": "🔶老张丨短剧┃小马",
       "type": 3,
       "api": "csp_DuanJuHeMaGuard",
@@ -31,7 +31,7 @@
       "changeable": 1
     },
 	 {
-      "key": "DuanJuXingYa",
+      "key": "短剧┃星星[短]",
       "name": "🔶老张丨短剧┃星星",
       "type": 3,
       "api": "csp_DuanJuXingYaGuard",
@@ -39,8 +39,9 @@
       "searchable": 1,
       "changeable": 1
     },
+
 	 {
-      "key": "DuanJuWeiGuan",
+      "key": "短剧┃小薇[短]",
       "name": "🔶老张丨短剧┃小薇",
       "type": 3,
       "api": "csp_DuanJuWeiGuanGuard",
@@ -51,7 +52,7 @@
  
     
         {
-      "key": "围观短剧",
+      "key": "围观短剧[短]",
       "name": "🔶老张丨围观｜短剧",
       "type": 3,
       "api": "csp_WeiguanDJ",
@@ -64,7 +65,7 @@
     },
 
     {
-      "key": "甜圈短剧",
+      "key": "甜圈短剧[短]",
       "name": "🔶老张丨甜圈｜短剧",
       "type": 3,
       "api": "csp_TianquanDJ",
@@ -77,7 +78,7 @@
     },
 
                 {
-            "key": "星芽短剧",
+            "key": "星芽短剧[短]",
             "name": "🔶老张丨星芽|短剧",
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/星芽短剧.py",
             "filterable": 1,
@@ -88,7 +89,7 @@
         },
         {
             "name": "🔶老张｜嗷嗚｜短剧",
-            "key": "DjHggg",
+            "key": "嗷嗚｜短剧[短]",
             "type": 3,
             "api": "csp_HgggAmns",
             "searchable": 1,
@@ -99,7 +100,7 @@
         },
  {
       "name": "🔶老张丨盒马|短剧",
-      "key": "Hema",
+      "key": "盒马|短剧[短]",
       "type": 3,
       "api": "csp_HemaAmns",
       "searchable": 1,
@@ -109,7 +110,7 @@
     },
     {
       "name": "🔶老张丨拜拜|短剧",
-      "key": "Bddj",
+      "key": "拜拜|短剧[短]",
       "type": 3,
       "api": "csp_BddjAmns",
       "searchable": 1,
@@ -119,7 +120,7 @@
     },
     {
       "name": "🔶老张丨围观1|短剧",
-      "key": "Wgdj",
+      "key": "围观1|短剧[短]",
       "type": 3,
       "api": "csp_WgdjAmns",
       "searchable": 1,
@@ -129,7 +130,7 @@
     },
     {
       "name": "🔶老张丨喵喵|短剧",
-      "key": "Qmdj",
+      "key": "喵喵|短剧[短]",
       "type": 3,
       "api": "csp_QmdjAmns",
       "searchable": 1,
@@ -139,7 +140,7 @@
     },
     {
       "name": "🔶老张丨星星|短剧",
-      "key": "Xydj",
+      "key": "星星|短剧[短]",
       "type": 3,
       "api": "csp_XydjAmns",
       "searchable": 1,
@@ -147,21 +148,11 @@
       "changeable": 0,
       "genre": "shortdrama"
     },
-                {
-            "name": "🔶老张丨嗷嗚｜漫剧",
-            "key": "MjHggg",
-            "type": 3,
-            "api": "csp_HgggAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "comic_series"
-        },
+             
 
         
                 {
-            "key": "猫眼",
+            "key": "猫眼短剧[短]",
             "name": "🔶老张丨猫眼｜短剧",
             "type": 1,
             "api": "https://api.maoyanapi.top/api.php/provide/vod/",
@@ -178,7 +169,7 @@
             ]
         },
         {
-            "key": "无水印",
+            "key": "水印｜短剧[短]",
             "name": "🔶老张丨水印｜短剧",
             "type": 1,
             "api": "https://api.wsyzy.net/api.php/provide/vod/",
@@ -190,7 +181,7 @@
         },
     {
             "name": "🔶老张丨短剧｜盘搜",
-            "key": "PSdju",
+            "key": "短剧｜盘搜[短]",
             "type": 3,
             "api": "csp_PSdjuAmns",
             "searchable": 1,
@@ -201,7 +192,7 @@
 
 
     {
-      "key": "世界听书",
+      "key": "世界听书[听]",
       "name": "📚老张丨世界｜听书",
       "type": 3,
       "api": "csp_TingShijie",
@@ -212,7 +203,7 @@
     },
     
         {
-      "key": "哔哩哔哩听书",
+      "key": "哔哩听书[听]",
       "name": "📚老张丨哔哩｜听书",
       "type": 3,
       "api": "csp_Bili",
@@ -230,7 +221,7 @@
       }
     },
 {
-      "key": "BookShiJie",
+      "key": "极品┃听书[听]",
       "name": "📚老张丨极品┃听书",
       "type": 3,
       "api": "csp_BookShiJieGuard",
@@ -239,7 +230,7 @@
       "changeable": 1
     },
     {
-      "key": "BookYueTing",
+      "key": "悦庭┃听书[听]",
       "name": "📚老张丨悦庭┃听书",
       "type": 3,
       "api": "csp_BookYueTingGuard",
@@ -249,7 +240,7 @@
       "timeout": 120
     },
     {
-      "key": "BookWuWei",
+      "key": "无忧┃听书[听]",
       "name": "📚老张丨无忧┃听书",
 "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
       "type": 3,
@@ -258,7 +249,7 @@
       "changeable": 1
     },
     {
-      "key": "BookTingShu",
+      "key": "精品┃听书[听]",
       "name": "📚老张丨精品┃听书",
 "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
       "type": 3,
@@ -267,7 +258,7 @@
       "changeable": 1
     },
 	{
-      "key": "Book23TingShu",
+      "key": "爱上┃听书[听]",
       "name": "📚老张丨爱上┃听书",
       "type": 3,
       "api": "csp_Book23TingShuGuard",
@@ -278,7 +269,7 @@
       
     
         {
-      "key": "蜻蜓FM",
+      "key": "蜻蜓FM[听]",
       "name": "🎼老张丨蜻蜓｜FM",
       "type": 3,
       "api": "csp_QingtingFM",
@@ -289,7 +280,7 @@
     },
       {
             "name": "🎼老张丨酷狗1｜音乐",
-            "key": "KuGou",
+            "key": "酷狗｜音乐[听]",
             "type": 3,
             "api": "csp_KuGouAmns",
             "searchable": 1,
@@ -301,7 +292,7 @@
         
         
             {
-      "key": "哔哩哔哩演唱会",
+      "key": "哔哩演唱会[听]",
       "name": "🎼老张丨哔哩｜音乐",
       "type": 3,
       "api": "csp_Bili",
@@ -320,7 +311,7 @@
     },
 
 {
-      "key": "MusicIKtv",
+      "key": "KTV┃音乐[听]",
       "name": "🎼老张丨KTV┃音乐",
       "type": 3,
       "api": "csp_MusicIKtvGuard",
@@ -329,7 +320,7 @@
       "changeable": 0
     },
     {
-      "key": "Music163",
+      "key": "易听┃音乐[听]",
       "name": "🎼老张丨易听┃音乐",
       "type": 3,
       "api": "csp_Music163Guard",
@@ -338,7 +329,7 @@
       "changeable": 0
     },
     {
-      "key": "MusicKuWo",
+      "key": "酷听┃音乐[听]",
       "name": "🎼老张丨酷听┃音乐",
       "type": 3,
       "api": "csp_MusicKuWoGuard",
@@ -348,7 +339,7 @@
     },
 
 {
-      "key": "biliych",
+      "key": "哔哩┃歌曲‍[听]",
       "name": " 🎼老张丨哔哩┃歌曲‍",
       "type": 3,
       "api": "csp_BiliGuard",
@@ -365,8 +356,8 @@
       }
 	},
     {
-      "key": "MusicLunHui",
-      "name": "🎼老张丨轮回┃舞曲🎼",
+      "key": "轮回┃舞曲[听]",
+      "name": "🎼老张丨轮回┃舞曲",
       "type": 3,
       "api": "csp_MusicLunHuiGuard",
 "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
@@ -379,7 +370,7 @@
           
         
             {
-      "key": "哔哩哔哩相声",
+      "key": "哔哩哔哩相声[听]",
       "name": "哔哩｜相声",
       "type": 3,
       "api": "csp_Bili",
@@ -397,7 +388,7 @@
       }
     },
     {
-      "key": "哔哩哔哩小品",
+      "key": "哔哩哔哩小品[听]",
       "name": "哔哩｜小品",
       "type": 3,
       "api": "csp_Bili",
@@ -417,7 +408,7 @@
     
     
         {
-      "key": "戏曲多多",
+      "key": "戏曲多多[听]",
       "name": "戏曲｜多多",
       "type": 3,
       "api": "csp_AppLY",
@@ -427,7 +418,7 @@
       }
     },
     {
-      "key": "哔哩哔哩戏曲",
+      "key": "哔哩哔哩戏曲[听]",
       "name": "哔哩｜戏曲",
       "type": 3,
       "api": "csp_Bili",
