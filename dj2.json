@@ -1,0 +1,780 @@
+{
+  "spider": "http://52xinghe.top/aowu/bfdb--cvdvds.png;md5;e9e41c69aae6d5546e4b9ae8266744be",
+   "logo": "./jar/logo2.png",
+    "sites": [
+
+     {
+      "key": "DuanJuHaoKan",
+      "name": "🔶老张丨短剧┃好看",
+      "type": 3,
+      "api": "csp_DuanJuHaoKanGuard",
+"jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+      "searchable": 1,
+      "changeable": 1
+    },
+	 {
+      "key": "DuanJuQiMiao",
+      "name": "🔶老张丨短剧┃小猫",
+      "type": 3,
+      "api": "csp_DuanJuQiMiaoGuard",
+"jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+      "searchable": 1,
+      "changeable": 1
+    },
+	 {
+      "key": "DuanJuHeMa",
+      "name": "🔶老张丨短剧┃小马",
+      "type": 3,
+      "api": "csp_DuanJuHeMaGuard",
+"jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+      "searchable": 1,
+      "changeable": 1
+    },
+	 {
+      "key": "DuanJuXingYa",
+      "name": "🔶老张丨短剧┃星星",
+      "type": 3,
+      "api": "csp_DuanJuXingYaGuard",
+"jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+      "searchable": 1,
+      "changeable": 1
+    },
+	 {
+      "key": "DuanJuWeiGuan",
+      "name": "🔶老张丨短剧┃小薇",
+      "type": 3,
+      "api": "csp_DuanJuWeiGuanGuard",
+"jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+      "searchable": 1,
+      "changeable": 1
+    },
+ 
+    
+        {
+      "key": "围观短剧",
+      "name": "🔶老张丨围观｜短剧",
+      "type": 3,
+      "api": "csp_WeiguanDJ",
+      https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "genre": "shortdrama"
+    },
+    {
+      "key": "甜圈短剧",
+      "name": "🔶老张丨甜圈｜短剧",
+      "type": 3,
+      "api": "csp_TianquanDJ",
+       https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "genre": "shortdrama"
+    },
+
+                {
+            "key": "星芽短剧",
+            "name": "🔶老张丨星芽|短剧",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/星芽短剧.py",
+            "filterable": 1,
+            "timeout": 60,
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "name": "🔶老张｜嗷嗚｜短剧",
+            "key": "DjHggg",
+            "type": 3,
+            "api": "csp_HgggAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "short_play"
+        },
+ {
+      "name": "🔶老张丨盒马|短剧",
+      "key": "Hema",
+      "type": 3,
+      "api": "csp_HemaAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "genre": "shortdrama"
+    },
+    {
+      "name": "🔶老张丨拜拜|短剧",
+      "key": "Bddj",
+      "type": 3,
+      "api": "csp_BddjAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "genre": "shortdrama"
+    },
+    {
+      "name": "🔶老张丨围观1|短剧",
+      "key": "Wgdj",
+      "type": 3,
+      "api": "csp_WgdjAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "genre": "shortdrama"
+    },
+    {
+      "name": "🔶老张丨喵喵|短剧",
+      "key": "Qmdj",
+      "type": 3,
+      "api": "csp_QmdjAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "genre": "shortdrama"
+    },
+    {
+      "name": "🔶老张丨星星|短剧",
+      "key": "Xydj",
+      "type": 3,
+      "api": "csp_XydjAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "genre": "shortdrama"
+    },
+                {
+            "name": "🔶老张丨嗷嗚｜漫剧",
+            "key": "MjHggg",
+            "type": 3,
+            "api": "csp_HgggAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "comic_series"
+        },
+
+        
+                {
+            "key": "猫眼",
+            "name": "🔶老张丨猫眼｜短剧",
+            "type": 1,
+            "api": "https://api.maoyanapi.top/api.php/provide/vod/",
+            "categories": [
+                "短剧现代都市",
+                "短剧脑洞悬疑",
+                "短剧年代穿越",
+                "短剧古装仙侠",
+                "短剧反转爽剧",
+                "短剧女频恋爱",
+                "短剧成长逆袭",
+                "奇幻片",
+                "里番动漫"
+            ]
+        },
+        {
+            "key": "无水印",
+            "name": "🔶老张丨水印｜短剧",
+            "type": 1,
+            "api": "https://api.wsyzy.net/api.php/provide/vod/",
+            "categories": [
+                "短剧",
+                "擦边短剧",
+                "漫剧"
+            ]
+        },
+    {
+            "name": "🔶老张丨短剧｜盘搜",
+            "key": "PSdju",
+            "type": 3,
+            "api": "csp_PSdjuAmns",
+            "searchable": 1,
+            "filterable": 0,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+
+
+    {
+      "key": "世界听书",
+      "name": "📚老张丨世界｜听书",
+      "type": 3,
+      "api": "csp_TingShijie",
+      https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar
+      "style": {
+        "type": "list"
+      }
+    },
+    
+        {
+      "key": "哔哩哔哩听书",
+      "name": "📚老张丨哔哩｜听书",
+      "type": 3,
+      "api": "csp_Bili",
+       https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "json": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLTS.json",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+{
+      "key": "BookShiJie",
+      "name": "📚老张丨极品┃听书",
+      "type": 3,
+      "api": "csp_BookShiJieGuard",
+"jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "BookYueTing",
+      "name": "📚老张丨悦庭┃听书",
+      "type": 3,
+      "api": "csp_BookYueTingGuard",
+"jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 120
+    },
+    {
+      "key": "BookWuWei",
+      "name": "📚老张丨无忧┃听书",
+"jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+      "type": 3,
+      "api": "csp_BookWuWeiGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "BookTingShu",
+      "name": "📚老张丨精品┃听书",
+"jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+      "type": 3,
+      "api": "csp_BookTingShuGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+	{
+      "key": "Book23TingShu",
+      "name": "📚老张丨爱上┃听书",
+      "type": 3,
+      "api": "csp_Book23TingShuGuard",
+"jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+      "searchable": 1,
+      "changeable": 1
+    },
+      
+    
+        {
+      "key": "蜻蜓FM",
+      "name": "🎼老张丨蜻蜓｜FM",
+      "type": 3,
+      "api": "csp_QingtingFM",
+      https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar
+      "style": {
+        "type": "list"
+      }
+    },
+      {
+            "name": "🎼老张丨酷狗1｜音乐",
+            "key": "KuGou",
+            "type": 3,
+            "api": "csp_KuGouAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "genre": "music"
+        },
+        
+        
+            {
+      "key": "哔哩哔哩演唱会",
+      "name": "🎼老张丨哔哩｜音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "json": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLYCH.json",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+
+{
+      "key": "MusicIKtv",
+      "name": "🎼老张丨KTV┃音乐",
+      "type": 3,
+      "api": "csp_MusicIKtvGuard",
+"jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Music163",
+      "name": "🎼老张丨易听┃音乐",
+      "type": 3,
+      "api": "csp_Music163Guard",
+"jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "MusicKuWo",
+      "name": "🎼老张丨酷听┃音乐",
+      "type": 3,
+      "api": "csp_MusicKuWoGuard",
+"jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+      "searchable": 1,
+      "changeable": 0
+    },
+
+{
+      "key": "biliych",
+      "name": " 🎼老张丨哔哩┃歌曲‍",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3083f43a14e6b59f4bfe248478a3a8765b34bfdd/bilisong.txt"
+      }
+	},
+    {
+      "key": "MusicLunHui",
+      "name": "🎼老张丨轮回┃舞曲🎼",
+      "type": 3,
+      "api": "csp_MusicLunHuiGuard",
+"jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+
+      "searchable": 1,
+      "changeable": 0
+    },
+
+       
+          
+        
+            {
+      "key": "哔哩哔哩相声",
+      "name": "哔哩｜相声",
+      "type": 3,
+      "api": "csp_Bili",
+      https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "json": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLXS.json",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "哔哩哔哩小品",
+      "name": "哔哩｜小品",
+      "type": 3,
+      "api": "csp_Bili",
+      https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "json": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLXP.json",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    
+    
+        {
+      "key": "戏曲多多",
+      "name": "戏曲｜多多",
+      "type": 3,
+      "api": "csp_AppLY",
+     https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "哔哩哔哩戏曲",
+      "name": "哔哩｜戏曲",
+      "type": 3,
+      "api": "csp_Bili",
+ https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "json": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLXQ.json",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    }
+
+
+    ],
+    
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ],
+    "ads": [
+        "mozai.4gtv.tv"
+    ],
+    "lives": [],
+    "ijk": [
+        {
+            "group": "软解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        },
+        {
+            "group": "硬解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        }
+    ],
+    "proxy": [
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "cdn.v82u1l.com",
+        "cdn.iz8qkg.com",
+        "cdn.kin6c1.com",
+        "c.biggggg.com",
+        "c.olddddd.com",
+        "haiwaikan.com",
+        "www.histar.tv",
+        "youtube.com",
+        "uhibo.com",
+        ".*boku.*",
+        ".*nivod.*",
+        ".*ulivetv.*",
+        "iill.top"
+    ],
+    "rules": [
+        {
+            "name": "cl",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "最 新",
+                "直 播",
+                "更 新"
+            ]
+        },
+        {
+            "name": "火山嗅探",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "抖音嗅探",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        },
+        {
+            "name": "农民嗅探",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
+            ]
+        },
+        {
+            "name": "七新嗅探",
+            "hosts": [
+                "api.52wyb.com"
+            ],
+            "regex": [
+                "m3u8?pt=m3u8"
+            ]
+        },
+        {
+            "name": "夜市",
+            "hosts": [
+                "yeslivetv.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+            ]
+        },
+        {
+            "name": "毛驴",
+            "hosts": [
+                "www.maolvys.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+            ]
+        },
+        {
+            "name": "czzy",
+            "hosts": [
+                "10086.cn"
+            ],
+            "regex": [
+                "/storageWeb/servlet/downloadServlet"
+            ]
+        },
+        {
+            "name": "bdys",
+            "hosts": [
+                "bytetos.com",
+                "byteimg.com",
+                "bytednsdoc.com",
+                "pstatp.com"
+            ],
+            "regex": [
+                "/tos-cn"
+            ],
+            "exclude": [
+                ".m3u8"
+            ]
+        },
+        {
+            "name": "bdys10",
+            "hosts": [
+                "bdys10.com"
+            ],
+            "regex": [
+                "/obj/"
+            ],
+            "exclude": [
+                ".m3u8"
+            ]
+        }
+    ]
+}
