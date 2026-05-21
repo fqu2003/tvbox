@@ -55,19 +55,20 @@
       "name": "🔶老张丨围观｜短剧",
       "type": 3,
       "api": "csp_WeiguanDJ",
-      https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "genre": "shortdrama"
     },
+
     {
       "key": "甜圈短剧",
       "name": "🔶老张丨甜圈｜短剧",
       "type": 3,
       "api": "csp_TianquanDJ",
-       https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar
+       "jar": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -204,7 +205,7 @@
       "name": "📚老张丨世界｜听书",
       "type": 3,
       "api": "csp_TingShijie",
-      https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
       "style": {
         "type": "list"
       }
@@ -215,7 +216,7 @@
       "name": "📚老张丨哔哩｜听书",
       "type": 3,
       "api": "csp_Bili",
-       https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar
+       "jar": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -281,7 +282,7 @@
       "name": "🎼老张丨蜻蜓｜FM",
       "type": 3,
       "api": "csp_QingtingFM",
-      https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
       "style": {
         "type": "list"
       }
@@ -304,7 +305,7 @@
       "name": "🎼老张丨哔哩｜音乐",
       "type": 3,
       "api": "csp_Bili",
-      https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -382,7 +383,7 @@
       "name": "哔哩｜相声",
       "type": 3,
       "api": "csp_Bili",
-      https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -400,7 +401,7 @@
       "name": "哔哩｜小品",
       "type": 3,
       "api": "csp_Bili",
-      https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -420,7 +421,7 @@
       "name": "戏曲｜多多",
       "type": 3,
       "api": "csp_AppLY",
-     https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar
+     "jar": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
       "style": {
         "type": "list"
       }
@@ -430,7 +431,7 @@
       "name": "哔哩｜戏曲",
       "type": 3,
       "api": "csp_Bili",
- https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar
+ "jar": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
