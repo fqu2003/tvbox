@@ -267,7 +267,20 @@
       "changeable": 1
     },
       
-    
+    {
+            "key": "网易云[听]",
+            "name": "🎼老张丨网易云丨音乐",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/js/网易云音乐.js"
+        },
+
+{
+            "key": "qq音乐[听]",
+            "name": "🎼老张丨qq丨音乐",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/js/网易云音乐.js"
+        },
+
         {
       "key": "蜻蜓FM[听]",
       "name": "🎼老张丨蜻蜓｜FM",
