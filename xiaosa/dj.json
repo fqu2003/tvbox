@@ -1,7 +1,11 @@
 {
-    "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/xiaosa/spider.jar",
+    "spider":"https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/xiaosa/spider.jar",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+<<<<<<< HEAD:xiaosa/dj.json
     "logo": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jpg/logo.png",
+=======
+    "logo":"https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jpg/logo.png",
+>>>>>>> 568fce293a666a2f5c26c5c61678d9cc16bcbece:xiaosa/dj.png
     "sites": [
        
         {
