@@ -189,8 +189,28 @@
             "quickSearch": 1,
             "changeable": 0
         },
-
-
+  {
+            "key": "py_红果",
+            "name": "🔶老张丨红红｜短剧",
+            "type": 3,
+            "api": "http://150.158.52.248/tgyg/py/红果短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+ {
+      "key": "草民短剧",
+      "name": "🔶老张丨草民丨短剧.json",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://150.158.52.248/tgyg/lib/草民短剧.json",
+      "jar": "http://150.158.52.248/tgyg/lib/XBPQ1118.jar"
+    },
     {
       "key": "世界听书[听]",
       "name": "📚老张丨世界｜听书",
@@ -266,7 +286,33 @@
       "searchable": 1,
       "changeable": 1
     },
-      
+          {
+      "key": "ChuXin",
+      "name": "🎼老张丨初心┃音乐",
+      "type": 3,
+      "api": "csp_ChuXin",
+      "jar": "http://150.158.52.248/tgyg/lib/moyuer.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "Music24bit",
+      "name": "🎼老张丨无损┃音乐",
+      "type": 3,
+      "api": "csp_Music24bit",
+      "jar": "http://150.158.52.248/tgyg/lib/moyuer.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "categories": [
+          "周杰伦",
+          "林俊杰",
+          "陈奕迅",
+          "邓紫棋",
+          "薛之谦"
+        ]
+	  }
     {
             "key": "网易云[听]",
             "name": "🎼老张丨网易云丨音乐",
