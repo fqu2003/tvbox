@@ -1,7 +1,7 @@
 {
     "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/xiaosa/spider.jar",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-    "logo": https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jpg/logo.png",
+    "logo": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jpg/logo.png",
     "sites": [
        
         {
