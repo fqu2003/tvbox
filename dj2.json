@@ -12,6 +12,18 @@
       "searchable": 1,
       "changeable": 1
     },
+{
+      "key": "草民短剧",
+      "name": "✨草民短剧.json",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/草民短剧.json",
+      "jar": "./json/XBPQ1118.jar"
+    },
+
 	 {
       "key": "短剧┃小猫[短]",
       "name": "🔶老张丨短剧┃小猫[短]",
