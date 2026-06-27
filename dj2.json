@@ -49,7 +49,7 @@
       "name": "🔶老张丨围观｜短剧",
       "type": 3,
       "api": "csp_WeiguanDJ",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -61,6 +61,7 @@
             "key": "嗷嗚｜短剧[短]",
             "type": 3,
             "api": "csp_HgggAmns",
+          "jar": "http://bobohome.ignorelist.com:20247/🐅嗷呜/spider.jar",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -72,6 +73,7 @@
       "key": "盒马|短剧[短]",
       "type": 3,
       "api": "csp_HemaAmns",
+          "jar": "http://bobohome.ignorelist.com:20247/🐅嗷呜/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -82,6 +84,7 @@
       "key": "拜拜|短剧[短]",
       "type": 3,
       "api": "csp_BddjAmns",
+       "jar": "http://bobohome.ignorelist.com:20247/🐅嗷呜/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -92,6 +95,7 @@
       "key": "围观1|短剧[短]",
       "type": 3,
       "api": "csp_WgdjAmns",
+       "jar": "http://bobohome.ignorelist.com:20247/🐅嗷呜/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -102,6 +106,7 @@
       "key": "喵喵|短剧[短]",
       "type": 3,
       "api": "csp_QmdjAmns",
+          "jar": "http://bobohome.ignorelist.com:20247/🐅嗷呜/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -112,6 +117,7 @@
       "key": "星星|短剧[短]",
       "type": 3,
       "api": "csp_XydjAmns",
+     "jar": "http://bobohome.ignorelist.com:20247/🐅嗷呜/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -163,7 +169,7 @@
       "name": "📚老张丨世界｜听书",
       "type": 3,
       "api": "csp_TingShijie",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
       "style": {
         "type": "list"
       }
@@ -172,7 +178,7 @@
             "key": "Cat_喜马拉雅",
             "name": "📚老张丨喜马丨听书",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/js/ximalaya_ting.js",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/js/ximalaya_ting.js",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1
@@ -183,7 +189,7 @@
       "name": "📚老张丨哔哩｜听书",
       "type": 3,
       "api": "csp_Bili",
-       "jar": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
+       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -254,14 +260,14 @@
             "key": "网易云[听]",
             "name": "🎼老张丨网易云丨音乐",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/js/网易云音乐.js"
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/js/网易云音乐.js"
         },
 
 {
             "key": "qq音乐[听]",
             "name": "🎼老张丨qq丨音乐",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/js/网易云音乐.js"
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/js/网易云音乐.js"
         },
 
         {
@@ -269,7 +275,7 @@
       "name": "🎼老张丨蜻蜓｜FM",
       "type": 3,
       "api": "csp_QingtingFM",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
       "style": {
         "type": "list"
       }
@@ -292,7 +298,7 @@
       "name": "🎼老张丨哔哩｜音乐",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -313,7 +319,7 @@
       "name": "哔哩｜相声",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -331,7 +337,7 @@
       "name": "哔哩｜小品",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -361,7 +367,7 @@
       "name": "戏曲｜多多",
       "type": 3,
       "api": "csp_AppLY",
-     "jar": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
+     "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
       "style": {
         "type": "list"
       }
@@ -371,7 +377,7 @@
       "name": "哔哩｜戏曲",
       "type": 3,
       "api": "csp_Bili",
- "jar": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
+ "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
