@@ -61,7 +61,7 @@
             "key": "嗷嗚｜短剧[短]",
             "type": 3,
             "api": "csp_HgggAmns",
-          "jar": "http://bobohome.ignorelist.com:20247/🐅嗷呜/spider.jar",
+          "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jar/spider_aw.jar",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -73,18 +73,18 @@
       "key": "盒马|短剧[短]",
       "type": 3,
       "api": "csp_HemaAmns",
-          "jar": "http://bobohome.ignorelist.com:20247/🐅嗷呜/spider.jar",
+          "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jar/spider_aw.jar"",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "genre": "shortdrama"
     },
     {
-      "name": "🔶🔶嗷嗚丨拜拜丨短剧",
+      "name": "🔶嗷嗚丨拜拜丨短剧",
       "key": "拜拜|短剧[短]",
       "type": 3,
       "api": "csp_BddjAmns",
-       "jar": "http://bobohome.ignorelist.com:20247/🐅嗷呜/spider.jar",
+       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jar/spider_aw.jar"",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -95,7 +95,7 @@
       "key": "围观1|短剧[短]",
       "type": 3,
       "api": "csp_WgdjAmns",
-       "jar": "http://bobohome.ignorelist.com:20247/🐅嗷呜/spider.jar",
+       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jar/spider_aw.jar"",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -106,7 +106,7 @@
       "key": "喵喵|短剧[短]",
       "type": 3,
       "api": "csp_QmdjAmns",
-          "jar": "http://bobohome.ignorelist.com:20247/🐅嗷呜/spider.jar",
+          "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jar/spider_aw.jar"",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -117,7 +117,7 @@
       "key": "星星|短剧[短]",
       "type": 3,
       "api": "csp_XydjAmns",
-     "jar": "http://bobohome.ignorelist.com:20247/🐅嗷呜/spider.jar",
+     "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jar/spider_aw.jar"",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -281,27 +281,26 @@
             "genre": "music"
         },
         
-        
-            {
-      "key": "哔哩演唱会[听]",
-      "name": "🎼老张丨哔哩｜音乐",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "json": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLYCH.json",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-       
-          
+         {
+            "key": "哔哩哔哩演唱会",
+            "name": "🎼老张丨哔哩 • 音乐",
+            "type": 3,
+            "api": "csp_Bili",
+ "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "json": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLYCH.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+
+               
         
             {
       "key": "哔哩哔哩相声[听]",
@@ -350,35 +349,61 @@
             "filterable": 0
         },
 
-    
-        {
-      "key": "戏曲多多[听]",
-      "name": "戏曲｜多多",
-      "type": 3,
-      "api": "csp_AppLY",
-     "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "哔哩哔哩戏曲[听]",
-      "name": "哔哩｜戏曲",
-      "type": 3,
-      "api": "csp_Bili",
+     {
+            "key": "哔哩哔哩相声",
+            "name": "哔哩 • 相声",
+            "type": 3,
+            "api": "csp_Bili",
  "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "json": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLXQ.json",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    }
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "json": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLXS.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "哔哩哔哩小品",
+            "name": "哔哩 • 小品",
+            "type": 3,
+            "api": "csp_Bili",
+ "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "json": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLXP.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "哔哩哔哩戏曲",
+            "name": "哔哩 • 戏曲",
+            "type": 3,
+            "api": "csp_Bili",
+ "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "json": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLXQ.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        }
+
 
 
     ],
