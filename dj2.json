@@ -23,7 +23,7 @@
         },
  {
             "key": "py_西饭短剧APP",
-            "name": "✨py稀饭短剧",
+            "name": "🔶老张丨稀饭丨短剧",
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/西饭短剧.py",
             "filterable": 1,
             "quickSearch": 1,
@@ -229,17 +229,7 @@
             "filterable": 1,
             "playerType": 2
         },
- {
-      "key": "草民短剧",
-      "name": "🔶老张丨草民丨短剧.json",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://150.158.52.248/tgyg/lib/草民短剧.json",
-      "jar": "http://150.158.52.248/tgyg/lib/XBPQ1118.jar"
-    },
+ 
     {
       "key": "世界听书[听]",
       "name": "📚老张丨世界｜听书",
@@ -250,7 +240,16 @@
         "type": "list"
       }
     },
-    
+     {
+            "key": "Cat_喜马拉雅",
+            "name": "📚老张丨喜马丨听书",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/js/ximalaya_ting.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+
         {
       "key": "哔哩听书[听]",
       "name": "📚老张丨哔哩｜听书",
@@ -315,6 +314,31 @@
       "searchable": 1,
       "changeable": 1
     },
+
+    {
+            "key": "酷我.py",
+            "name": "🎵丰玲｜酷我｜音乐",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/酷我.py"
+        },
+  {
+            "key": "sing音乐",
+            "name": "🎵丰玲｜sing｜音乐",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/sing音乐.py"
+        },
+        
+        {
+            "key": "Cat_聚合音乐",
+            "name": "🎵丰玲｜聚合｜音乐",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/yinyue_juhe.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+
+
           {
       "key": "ChuXin",
       "name": "🎼老张丨初心┃音乐",
