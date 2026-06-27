@@ -69,19 +69,6 @@
             "changeable": 1,
             "ext": "short_play"
         },
-
- {
-      "name": "🔶嗷嗚丨盒马丨短剧",
-      "key": "盒马|短剧[短]",
-      "type": 3,
-      "api": "csp_HemaAmns",
-          "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jar/spider_aw.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "genre": "shortdrama"
-    },
-
     {
       "name": "🔶嗷嗚丨拜拜丨短剧",
       "key": "拜拜|短剧[短]",
