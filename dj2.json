@@ -2,6 +2,34 @@
   "spider": "http://52xinghe.top/aowu/bfdb--cvdvds.png;md5;e9e41c69aae6d5546e4b9ae8266744be",
    "logo": "./jar/logo2.png",
     "sites": [
+  {
+            "key": "红果短剧",
+            "name": "🔥老张｜红果｜短剧",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/果果短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+ {
+            "key": "js七猫｜短剧",
+            "name": "🔥老张｜七猫｜短剧",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+            "playerType": 2,
+            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/js/七猫.js"
+        },
+ {
+            "key": "py_西饭短剧APP",
+            "name": "✨py稀饭短剧",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/西饭短剧.py",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
 
      {
       "key": "短剧┃好看[短]",
@@ -11,17 +39,6 @@
 "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
       "searchable": 1,
       "changeable": 1
-    },
-{
-      "key": "草民短剧",
-      "name": "✨草民短剧.json",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/草民短剧.json",
-      "jar": "./json/XBPQ1118.jar"
     },
 
 	 {
@@ -430,7 +447,17 @@
         "ratio": 1.597
       }
     },
-    
+    {
+            "key": "kktd",
+            "name": "糖豆｜广场舞",
+            "type": 1,
+            "api": "https://kk.666888.club/vod/cibn_api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+
     
         {
       "key": "戏曲多多[听]",
