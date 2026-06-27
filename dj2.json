@@ -56,6 +56,7 @@
       "filterable": 1,
       "genre": "shortdrama"
     },
+
         {
             "name": "🔶嗷嗚｜嗷嗚｜短剧",
             "key": "嗷嗚｜短剧[短]",
@@ -68,23 +69,25 @@
             "changeable": 1,
             "ext": "short_play"
         },
+
  {
       "name": "🔶嗷嗚丨盒马丨短剧",
       "key": "盒马|短剧[短]",
       "type": 3,
       "api": "csp_HemaAmns",
-          "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jar/spider_aw.jar"",
+          "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jar/spider_aw.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "genre": "shortdrama"
     },
+
     {
       "name": "🔶嗷嗚丨拜拜丨短剧",
       "key": "拜拜|短剧[短]",
       "type": 3,
       "api": "csp_BddjAmns",
-       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jar/spider_aw.jar"",
+       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jar/spider_aw.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -95,7 +98,7 @@
       "key": "围观1|短剧[短]",
       "type": 3,
       "api": "csp_WgdjAmns",
-       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jar/spider_aw.jar"",
+       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jar/spider_aw.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -106,7 +109,7 @@
       "key": "喵喵|短剧[短]",
       "type": 3,
       "api": "csp_QmdjAmns",
-          "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jar/spider_aw.jar"",
+          "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jar/spider_aw.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -117,7 +120,7 @@
       "key": "星星|短剧[短]",
       "type": 3,
       "api": "csp_XydjAmns",
-     "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jar/spider_aw.jar"",
+     "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jar/spider_aw.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -320,6 +323,7 @@
         "ratio": 1.597
       }
     },
+
     {
       "key": "哔哩哔哩小品[听]",
       "name": "哔哩｜小品",
@@ -367,6 +371,7 @@
                 "ratio": 1.597
             }
         },
+
         {
             "key": "哔哩哔哩小品",
             "name": "哔哩 • 小品",
@@ -385,6 +390,7 @@
                 "ratio": 1.597
             }
         },
+
         {
             "key": "哔哩哔哩戏曲",
             "name": "哔哩 • 戏曲",
