@@ -205,36 +205,6 @@
             "quickSearch": 0,
             "filterable": 1
         },
-
-
-          {
-      "key": "ChuXin",
-      "name": "🎼老张丨初心┃音乐",
-      "type": 3,
-      "api": "csp_ChuXin",
-      "jar": "http://150.158.52.248/tgyg/lib/moyuer.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "Music24bit",
-      "name": "🎼老张丨无损┃音乐",
-      "type": 3,
-      "api": "csp_Music24bit",
-      "jar": "http://150.158.52.248/tgyg/lib/moyuer.jar",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "categories": [
-          "周杰伦",
-          "林俊杰",
-          "陈奕迅",
-          "邓紫棋",
-          "薛之谦"
-        ]
-      }
-    },
 		
     {
             "key": "网易云[听]",
