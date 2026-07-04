@@ -4,6 +4,18 @@
     "logo": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jpg/logo.png",
 
     "sites": [
+          {
+            "key": "红果短剧",
+            "name": "🌾红果短剧",
+            "type": 3,
+            "api": "https://raw.gitcode.com/u013624795/jk/blobs/732d407bbe320d94f1f56d4993dda023bd369322/%E7%BA%A2%E6%9E%9C.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+
          {
             "key": "红果短剧",
             "name": "🔥老张｜红果｜短剧",
@@ -250,17 +262,35 @@
             "quickSearch": 0,
             "filterable": 1
         },
-
- {
-            "key": "Iktv",
-            "name": "🎵放牛｜KTV┃音乐🎤",
+        {
+            "key": "爱听音乐1",
+            "name": "🌾DJ舞曲",
             "type": 3,
-            "api": "csp_WexIktvGuard",
- "jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar;md5;e11dfad1c324e310e688c0845f9a06b8",
+            "api": "https://8877.kstore.space/jar/yy/DJ舞曲.py",
             "searchable": 1,
-            "changeable": 0
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
-
+        {
+            "key": "爱听音乐",
+            "name": "🌾爱听音乐",
+            "type": 3,
+            "api": "https://8877.kstore.space/jar/yy/aiting.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Cat_听海",
+            "name": "🌾听海ᶜᵃᵗ音乐",
+            "type": 3,
+            "api": "https://8877.kstore.space/jar/yy/tinghai_ting.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
   {
             "name": "🎵嗷呜｜酷狗｜音乐",
             "key": "KuGou",
