@@ -324,6 +324,19 @@
         "ratio": 1.597
       }
     },
+		  {
+      "key": "WexTangDou",
+      "name": "💃广场舞┃教学💃",
+      "type": 3,
+      "api": "csp_WexTangDouGuard",
+	"jar": "https://nos.netease.com/ysf/e458da8ce422b93b3568e00c0e86fc41.jar;md5;fc469ae29c98cf87d95a1f9dcfada35c",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 2
+      }
+    },
     {
             "key": "kktd",
             "name": "糖豆｜广场舞",
