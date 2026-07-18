@@ -343,7 +343,13 @@
       "type": 3,
       "jar": "https://nos.netease.com/ysf/b36b5f196bbc71d1a3a6192ba379cf2a.txt;md5;3a4f1cbcc018772b077af417d89357e2",
       "api": "csp_WexTangDouGuard",
-
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 2
+      }
+    },
 		
     {
             "key": "kktd",
@@ -423,6 +429,7 @@
                 "8.8.8.8"
             ]
         },
+
         {
             "name": "Cloudflare",
             "url": "https://cloudflare-dns.com/dns-query",
@@ -441,6 +448,7 @@
                 "94.140.14.141"
             ]
         },
+
         {
             "name": "DNSWatch",
             "url": "https://resolver2.dns.watch/dns-query",
