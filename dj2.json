@@ -216,12 +216,14 @@
       "changeable": 0,
       "indexs": 0
     },
+
     {
             "key": "酷我.py",
             "name": "🎵丰玲｜酷我｜音乐",
             "type": 3,
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/酷我.py"
         },
+
   {
             "key": "sing音乐",
             "name": "🎵丰玲｜sing｜音乐",
@@ -263,6 +265,7 @@
         "type": "list"
       }
     },
+
       {
             "name": "🎼老张丨酷狗1｜音乐",
             "key": "酷狗｜音乐[听]",
@@ -333,28 +336,15 @@
         "ratio": 1.597
       }
     },
-<<<<<<< HEAD
+
 {
       "key": "WexTangDou",
       "name": "🎤放牛｜广场舞",
       "type": 3,
       "jar": "https://nos.netease.com/ysf/b36b5f196bbc71d1a3a6192ba379cf2a.txt;md5;3a4f1cbcc018772b077af417d89357e2",
       "api": "csp_WexTangDouGuard",
-=======
-		  {
-      "key": "WexTangDou",
-      "name": "💃广场舞┃教学💃",
-      "type": 3,
-      "api": "csp_WexTangDouGuard",
-	"jar": "https://nos.netease.com/ysf/e458da8ce422b93b3568e00c0e86fc41.jar;md5;fc469ae29c98cf87d95a1f9dcfada35c",
->>>>>>> df9f7804c908ce8c7c35c9cf4f73ea3d433f6f3e
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 2
-      }
-    },
+
+		
     {
             "key": "kktd",
             "name": "糖豆｜广场舞",
@@ -422,9 +412,6 @@
                 "ratio": 1.597
             }
         }
-
-
-
     ],
     
     "doh": [
