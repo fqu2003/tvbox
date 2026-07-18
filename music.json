@@ -1,0 +1,415 @@
+{
+  "spider": "https://15487.kstore.space/spider.jar",
+  "wallpaper": "https://wp.upx8.com/api.php",
+  "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/logo.png",
+  "warningText": "天神IY：资源来自网络，无盈利纯搬运分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
+  "lives": [
+    {
+      "name": "美加墨世界杯",
+      "type": 0,
+      "url": "http://82.156.243.185:33389/fwc.m3u"
+    },
+    {
+      "name": "咖啡体育",
+      "type": 0,
+      "url": "https://iptv.catvod.com/kf/catvod.m3u"
+    },
+    {
+      "name": "📺4K歌手2026，乘风破浪2026直播+回放",
+      "type": 0,
+      "ua": "okHttp/Mod-1.5.0.0",
+      "url": "https://mgtv.ottiptv.cc/mglist.m3u?url=https://mgtv.ottiptv.cc"
+    },
+    {
+      "name": "📺IPTV直播",
+      "type": 0,
+      "ua": "okHttp/Mod-1.5.0.0",
+      "url": "http://1.94.31.214/live/live9/dgtv2026.php"
+    },
+    {
+      "name": "📺体育赛事直播",
+      "type": 0,
+      "ua": "okHttp/Mod-1.5.0.0",
+      "url": "http://47.100.99.38:28989/list.m3u"
+    },
+    {
+      "name": "📺咪咕直播+体育回看",
+      "type": 0,
+      "ua": "okHttp/Mod-1.5.0.0",
+      "url": "http://101.6.130.52:1234/txt"
+    }
+  ],
+  "sites": [
+    {
+      "key": "配置中心1",
+      "name": "🎤闪电B站登录┃其它线路",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "Wexconfig",
+      "name": "🎤闪电B站登录┃影视专线",
+      "type": 3,
+      "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",
+      "api": "csp_WexConfigGuard",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0
+    },
+    {
+      "key": "哔哩演唱会",
+      "name": "🎤闪电┃演唱会一线",
+      "type": 3,
+      "jar": "https://15487.kstore.space/spider.jar",
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "cookie": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png",
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩演唱会.png"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "演唱会",
+      "name": "🎤闪电┃演唱会二线",
+      "type": 3,
+      "jar": "http://mzrjk.top/唱戏/bhxq.jar",
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://mzrjk.top/唱戏/json/演唱会.json"
+    },
+    {
+      "key": "哔哩哔哩",
+      "name": "🎤闪电┃综合一线",
+      "type": 3,
+      "jar": "http://mzrjk.top/唱戏/bhxq.jar",
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://mzrjk.top/唱戏/json/Bili.json"
+    },
+    {
+      "key": "哔哩合集",
+      "name": "🎤闪电┃综合二线",
+      "type": 3,
+      "jar": "https://15487.kstore.space/spider.jar",
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩合集.png",
+        "cookie": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png"
+      }
+    },
+    {
+      "key": "MTV1",
+      "name": "🎤闪电┃易听（打开刷新即可）",
+      "type": 3,
+      "jar": "https://oss4liview.moji.com/thd_file/2026/05/02/e007e4cb7e6715074cf8dbe0276b845f.jpg;md5;69a2e21f399421cf1f012a5ad501e31f",
+      "api": "csp_MusicGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "MTV",
+      "name": "🎤闪电┃明星MV一线",
+      "type": 3,
+      "jar": "https://oss4liview.moji.com/thd_file/2026/04/22/af3693c54efdb287866bcf0349f605c1.jpg;md5;4ce29ce27eeff6a73a230dd92d98ba0c",
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"
+      }
+    },
+    {
+      "key": "MTV2",
+      "name": "🎤闪电┃明星MV二线",
+      "type": 3,
+      "jar": "http://mzrjk.top/唱戏/bhxq.jar",
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://mzrjk.top/唱戏/json/MTV.json"
+    },
+    {
+      "key": "MusicIKtv",
+      "name": "🎤闪电┃KTV",
+      "type": 3,
+      "jar": "https://nos.netease.com/ysf/b36b5f196bbc71d1a3a6192ba379cf2a.txt;md5;3a4f1cbcc018772b077af417d89357e2",
+      "api": "csp_MusicIKtvGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "网易歌曲下载.py",
+      "name": "🎤闪电┃网易",
+      "type": 3,
+      "api": "https://15487.kstore.space/%E7%BD%91%E6%98%93%E6%AD%8C%E6%9B%B2%E4%B8%8B%E8%BD%BD.py"
+    },
+    {
+      "key": "csp_Kugou",
+      "name": "🎤闪电┃酷狗",
+      "type": 3,
+      "api": "csp_Kugou",
+      "playerType": 2,
+      "ext": {
+        "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
+    },
+    {
+      "key": "MusicKuWo",
+      "name": "🎤闪电┃酷听",
+      "type": 3,
+      "jar": "https://nos.netease.com/ysf/b36b5f196bbc71d1a3a6192ba379cf2a.txt;md5;3a4f1cbcc018772b077af417d89357e2",
+      "api": "csp_MusicKuWoGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Cat_聚合音乐",
+      "name": "🎤闪电┃聚合",
+      "type": 3,
+      "api": "https://15487.kstore.space/yinyue_juhe.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "枫叶音乐",
+      "name": "🎤闪电┃枫叶",
+      "type": 3,
+      "jar": "https://gitee.com/lzxw9527/jiuyue/raw/master/bzc0423.png",
+      "api": "https://mpimg.cn/down.php/2090fedb67387ea1a1ad908a94eb0aa6.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Cat_听海",
+      "name": "🎤闪电┃听海",
+      "type": 3,
+      "api": "https://15487.kstore.space/tinghai_ting.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "爱听音乐",
+      "name": "🎤闪电┃爱听",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/b3284feb00815ddd5d7e71e1468d9cf1.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "MusicLunHui",
+      "name": "🎤闪电┃舞曲",
+      "type": 3,
+      "jar": "https://nos.netease.com/ysf/b36b5f196bbc71d1a3a6192ba379cf2a.txt;md5;3a4f1cbcc018772b077af417d89357e2",
+      "api": "csp_MusicLunHuiGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "哔哩戏曲",
+      "name": "🎤闪电｜戏曲",
+      "type": 3,
+      "jar": "https://15487.kstore.space/spider.jar",
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "cookie": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png",
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩戏曲.png"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "WexTangDou",
+      "name": "🎤闪电｜广场舞",
+      "type": 3,
+      "jar": "https://nos.netease.com/ysf/b36b5f196bbc71d1a3a6192ba379cf2a.txt;md5;3a4f1cbcc018772b077af417d89357e2",
+      "api": "csp_WexTangDouGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 2
+      }
+    },
+    {
+      "key": "戏曲多多",
+      "name": "🎤闪电｜梨园行一线",
+      "type": 3,
+      "jar": "https://ym.wya6.cn/tz/wyxs.php;md5;c93ec11c288c461bc5bfded3e1424529",
+      "api": "csp_AppLY",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "戏曲大全",
+      "name": "🎤闪电｜梨园行二线",
+      "type": 3,
+      "api": "http://rihou.cc:88/js/drpy2.min.js",
+      "ext": "http://rihou.cc:88/js/戏曲大全.js"
+    },
+    {
+      "key": "哔哩视频",
+      "name": "🎤闪电｜影视",
+      "type": 3,
+      "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+      "ext": "https://app.69mini.com/lib1/bili.js"
+    },
+    {
+      "key": "哔哩",
+      "name": "🎤闪电｜影视4K",
+      "type": 3,
+      "api": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://fastlink.cokey.xyz/f/BbmbUe/%E5%93%94%E5%93%A9.js"
+    },
+    {
+      "key": "哔哩相声",
+      "name": "🎤闪电｜相声",
+      "type": 3,
+      "jar": "https://15487.kstore.space/spider.jar",
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "cookie": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png",
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩相声.png"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "哔哩小品",
+      "name": "🎤闪电｜小品",
+      "type": 3,
+      "jar": "https://15487.kstore.space/spider.jar",
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "cookie": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png",
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩小品.png"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "push_agent",
+      "name": "听音乐就用闪电音乐",
+      "type": 3,
+      "api": "csp_Push",
+      "jar": "./lib/fty.jar",
+      "playerType": "1",
+      "searchable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    }
+  ],
+  "parses": [
+    {
+      "name": "YYNB解析",
+      "type": 1,
+      "url": "https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url="
+    },
+    {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "听音乐就用闪电音乐",
+      "type": 1,
+      "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
+    }
+  ]
+}
