@@ -206,7 +206,16 @@
         "ratio": 1.597
       }
     },
-
+{
+      "key": "Wexconfig",
+      "name": "🎤B站登录┃影视专线",
+      "type": 3,
+      "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",
+      "api": "csp_WexConfigGuard",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0
+    },
     {
             "key": "酷我.py",
             "name": "🎵丰玲｜酷我｜音乐",
@@ -322,6 +331,19 @@
       "style": {
         "type": "rect",
         "ratio": 1.597
+      }
+    },
+{
+      "key": "WexTangDou",
+      "name": "🎤放牛｜广场舞",
+      "type": 3,
+      "jar": "https://nos.netease.com/ysf/b36b5f196bbc71d1a3a6192ba379cf2a.txt;md5;3a4f1cbcc018772b077af417d89357e2",
+      "api": "csp_WexTangDouGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 2
       }
     },
     {
