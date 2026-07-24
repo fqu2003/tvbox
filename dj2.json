@@ -6,7 +6,7 @@
             "key": "红果短剧",
             "name": "🔥老张|聚合|短剧",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/聚合短剧2.py",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/短剧聚合2.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -16,7 +16,7 @@
 
                 {
             "key": "星芽短剧[短]",
-            "name": "🔶老张丨星芽|短剧",
+            "name": "🔥老张丨星芽|短剧",
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/星芽短剧.py",
             "filterable": 1,
             "timeout": 60,
@@ -35,7 +35,7 @@
         },
  {
             "key": "py_西饭短剧APP",
-            "name": "🔶老张丨稀饭丨短剧",
+            "name": "🔥老张丨稀饭丨短剧",
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/西饭短剧.py",
             "filterable": 1,
             "quickSearch": 1,
@@ -46,7 +46,7 @@
        
         {
       "key": "围观短剧[短]",
-      "name": "🔶老张丨围观｜短剧",
+      "name": "🔥老张丨围观｜短剧",
       "type": 3,
       "api": "csp_WeiguanDJ",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
@@ -56,10 +56,19 @@
       "filterable": 1,
       "genre": "shortdrama"
     },
-		
+		{
+            "key": "流怎短剧[短]",
+            "name": "🔥老张丨星芽|短剧",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/星芽短剧.py",
+            "filterable": 1,
+            "timeout": 60,
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
         {
             "key": "好看短剧",
-            "name": "🔶老张丨好看｜短剧",
+            "name": "🔥老张丨好看｜短剧",
             "type": 3,
             "api": "csp_HaokanDJ",
             "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
@@ -169,7 +178,7 @@
     },
   {
             "key": "275听书",
-            "name": "🔶老张丨275丨听书",
+            "name": "📚老张丨275丨听书",
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/275听书.py",
             "filterable": 1,
             "quickSearch": 1,
@@ -205,16 +214,7 @@
         "ratio": 1.597
       }
     },
-    {
-            "key": "流怎短剧[短]",
-            "name": "🔶老张丨|短剧",
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/星芽短剧.py",
-            "filterable": 1,
-            "timeout": 60,
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
+    
 		
      
 {
