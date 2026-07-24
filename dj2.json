@@ -167,19 +167,17 @@
         "type": "list"
       }
     },
-
-    {
-            "key": "流怎短剧[短]",
-            "name": "🔶老张丨|短剧",
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/星芽短剧.py",
+  {
+            "key": "275听书",
+            "name": "🔶老张丨275丨听书",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/275听书.py",
             "filterable": 1,
-            "timeout": 60,
             "quickSearch": 1,
             "searchable": 1,
             "type": 3
         },
-		
-     {
+
+		{
             "key": "Cat_喜马拉雅",
             "name": "📚老张丨喜马丨听书",
             "type": 3,
@@ -207,6 +205,18 @@
         "ratio": 1.597
       }
     },
+    {
+            "key": "流怎短剧[短]",
+            "name": "🔶老张丨|短剧",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/星芽短剧.py",
+            "filterable": 1,
+            "timeout": 60,
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+		
+     
 {
       "key": "Wexconfig",
       "name": "🎤B站登录┃影视专线",
