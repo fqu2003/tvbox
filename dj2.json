@@ -2,8 +2,20 @@
  
    "logo": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jpg/logo.png",
     "sites": [
-  {
+
+		{
             "key": "红果短剧",
+            "name": "🔥老张|红果|短剧",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/hongguo.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+  {
+            "key": "短剧",
             "name": "🔥老张|聚合|短剧",
             "type": 3,
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/短剧聚合2.py",
