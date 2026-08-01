@@ -366,17 +366,6 @@
             "type": 3,
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/糖豆广场舞.py"
         },
-		
-    {
-            "key": "kktd",
-            "name": "糖豆｜广场舞",
-            "type": 1,
-            "api": "https://kk.666888.club/vod/cibn_api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 0,
-            "filterable": 0
-        },
 
      {
             "key": "哔哩哔哩相声",
