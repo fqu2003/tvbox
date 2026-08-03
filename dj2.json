@@ -5,7 +5,7 @@
 
 		{
             "key": "红果短剧",
-            "name": "🔥老张|红果[短]",
+            "name": "🔥老张|红果短剧[短]",
             "type": 3,
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/hongguo.py",
             "searchable": 1,
@@ -28,8 +28,8 @@
 
                 {
             "key": "星芽短剧[短]",
-            "name": "🔥老张丨星芽[短]",
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/星芽短剧.py",
+            "name": "🔥老张丨星芽短剧[短]",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/py/星芽短剧.py",
             "filterable": 1,
             "timeout": 60,
             "quickSearch": 1,
@@ -39,7 +39,7 @@
 
  {
             "key": "js七猫｜短剧",
-            "name": "🔥老张｜七猫[短]",
+            "name": "🔥老张｜七猫短剧[短]",
             "type": 3,
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
             "playerType": 2,
@@ -47,7 +47,7 @@
         },
  {
             "key": "py_西饭短剧APP",
-            "name": "🔥老张丨稀饭[短]",
+            "name": "🔥老张丨稀饭短剧[短]",
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/西饭短剧.py",
             "filterable": 1,
             "quickSearch": 1,
@@ -55,10 +55,21 @@
             "type": 3
         },
 
-       
+        {
+            "key": "spider_2054142186034827264",
+            "name": "🔥老张丨河马短剧[短]",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/河马.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "playable": 1
+        },
+
         {
       "key": "围观短剧[短]",
-      "name": "🔥老张丨围观｜短剧",
+      "name": "🔥老张丨围观短剧[短]",
       "type": 3,
       "api": "csp_WeiguanDJ",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
@@ -68,19 +79,10 @@
       "filterable": 1,
       "genre": "shortdrama"
     },
-		{
-            "key": "流怎短剧[短]",
-            "name": "🔥老张丨星芽1[短]",
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/星芽短剧.py",
-            "filterable": 1,
-            "timeout": 60,
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
+	
         {
             "key": "好看短剧",
-            "name": "🔥老张丨好看[短]",
+            "name": "🔥老张丨好看短剧[短]",
             "type": 3,
             "api": "csp_HaokanDJ",
             "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
@@ -208,6 +210,8 @@
             "filterable": 1
         },
 
+		
+
         {
       "key": "哔哩听书[听]",
       "name": "📚老张丨哔哩听书[听]",
@@ -226,19 +230,7 @@
         "ratio": 1.597
       }
     },
-    
-		
-     
-{
-      "key": "Wexconfig",
-      "name": "🎤B站登录┃影视专线",
-      "type": 3,
-      "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",
-      "api": "csp_WexConfigGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0
-    },
+
   
     {
             "key": "酷我.py",
@@ -269,7 +261,27 @@
             "type": 3,
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/fengye.py"
         },
+        {
+            "key": "爱听音乐",
+            "name": "🎵丰玲｜爱听音乐[听]",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/aiting.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 
+         {
+            "key": "爱听音乐1",
+            "name": "🎵丰玲｜DJ舞曲[听]",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/DJ舞曲.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 
         {
       "key": "蜻蜓FM[听]",
