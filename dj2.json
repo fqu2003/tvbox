@@ -5,7 +5,7 @@
 
 		{
             "key": "红果短剧",
-            "name": "🔥老张|红果|短剧",
+            "name": "🔥老张|红果[短]",
             "type": 3,
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/hongguo.py",
             "searchable": 1,
@@ -16,7 +16,7 @@
         },
   {
             "key": "短剧",
-            "name": "🔥老张|聚合|短剧",
+            "name": "🔥老张|聚合短剧[短]",
             "type": 3,
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/短剧聚合2.py",
             "searchable": 1,
@@ -28,7 +28,7 @@
 
                 {
             "key": "星芽短剧[短]",
-            "name": "🔥老张丨星芽|短剧",
+            "name": "🔥老张丨星芽[短]",
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/星芽短剧.py",
             "filterable": 1,
             "timeout": 60,
@@ -39,7 +39,7 @@
 
  {
             "key": "js七猫｜短剧",
-            "name": "🔥老张｜七猫｜短剧",
+            "name": "🔥老张｜七猫[短]",
             "type": 3,
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
             "playerType": 2,
@@ -47,7 +47,7 @@
         },
  {
             "key": "py_西饭短剧APP",
-            "name": "🔥老张丨稀饭丨短剧",
+            "name": "🔥老张丨稀饭[短]",
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/西饭短剧.py",
             "filterable": 1,
             "quickSearch": 1,
@@ -70,7 +70,7 @@
     },
 		{
             "key": "流怎短剧[短]",
-            "name": "🔥老张丨星芽|短剧",
+            "name": "🔥老张丨星芽1[短]",
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/星芽短剧.py",
             "filterable": 1,
             "timeout": 60,
@@ -80,7 +80,7 @@
         },
         {
             "key": "好看短剧",
-            "name": "🔥老张丨好看｜短剧",
+            "name": "🔥老张丨好看[短]",
             "type": 3,
             "api": "csp_HaokanDJ",
             "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
@@ -162,7 +162,7 @@
         
                 {
             "key": "猫眼短剧[短]",
-            "name": "🔶老张丨猫眼｜短剧",
+            "name": "🔶老张丨猫眼[短]",
             "type": 1,
             "api": "https://api.maoyanapi.top/api.php/provide/vod/",
             "categories": [
@@ -180,7 +180,7 @@
 
            {
       "key": "世界听书[听]",
-      "name": "📚老张丨世界｜听书",
+      "name": "📚老张丨世界听书[听]",
       "type": 3,
       "api": "csp_TingShijie",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
@@ -190,7 +190,7 @@
     },
   {
             "key": "275听书",
-            "name": "📚老张丨275丨听书",
+            "name": "📚老张丨275听书[听]",
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/275听书.py",
             "filterable": 1,
             "quickSearch": 1,
@@ -200,7 +200,7 @@
 
 		{
             "key": "Cat_喜马拉雅",
-            "name": "📚老张丨喜马丨听书",
+            "name": "📚老张丨喜马听书[听]",
             "type": 3,
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/js/ximalaya_ting.js",
             "searchable": 1,
@@ -210,7 +210,7 @@
 
         {
       "key": "哔哩听书[听]",
-      "name": "📚老张丨哔哩｜听书",
+      "name": "📚老张丨哔哩听书[听]",
       "type": 3,
       "api": "csp_Bili",
        "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
@@ -239,48 +239,41 @@
       "changeable": 0,
       "indexs": 0
     },
-
+  
     {
             "key": "酷我.py",
-            "name": "🎵丰玲｜酷我｜音乐",
+            "name": "🎵丰玲｜酷我音乐[听]",
             "type": 3,
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/酷我.py"
         },
 
   {
             "key": "sing音乐",
-            "name": "🎵丰玲｜sing｜音乐",
+            "name": "🎵丰玲｜sing音乐[听]",
             "type": 3,
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/sing音乐.py"
         },
         
         {
             "key": "Cat_聚合音乐",
-            "name": "🎵丰玲｜聚合｜音乐",
+            "name": "🎵丰玲｜聚合音乐[听]",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/yinyue_juhe.js",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/js/yinyue_juhe.js",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1
         },
-		
-    {
-            "key": "网易云[听]",
-            "name": "🎼老张丨网易云丨音乐",
+		 {
+            "key": "枫叶音乐",
+            "name": "🎵丰玲｜枫叶音乐[听]",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/js/网易云音乐.js"
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/fengye.py"
         },
 
-{
-            "key": "qq音乐[听]",
-            "name": "🎼老张丨qq丨音乐",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/js/网易云音乐.js"
-        },
 
         {
       "key": "蜻蜓FM[听]",
-      "name": "🎼老张丨蜻蜓｜FM",
+      "name": "🎼老张丨蜻蜓FM[听]",
       "type": 3,
       "api": "csp_QingtingFM",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
@@ -290,7 +283,7 @@
     },
 
       {
-            "name": "🎼老张丨酷狗1｜音乐",
+            "name": "🎼老张丨酷狗音乐[听]",
             "key": "酷狗｜音乐[听]",
             "type": 3,
             "api": "csp_KuGouAmns",
@@ -303,7 +296,7 @@
         
          {
             "key": "哔哩哔哩演唱会",
-            "name": "🎼老张丨哔哩 • 音乐",
+            "name": "🎼老张丨哔哩音乐[听]",
             "type": 3,
             "api": "csp_Bili",
  "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/spider.jar",
