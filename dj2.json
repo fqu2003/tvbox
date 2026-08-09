@@ -25,7 +25,12 @@
             "filterable": 1,
             "playerType": 2
         },
-
+{
+      "key": "百度短剧.js",
+      "name": "🪐百度短剧",
+      "type": 3,
+      "api": "./js/百度短剧.js"
+    },
                 {
             "key": "星芽短剧[短]",
             "name": "🔥老张丨星芽短剧[短]",
