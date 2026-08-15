@@ -3,17 +3,6 @@
    "logo": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jpg/logo.png",
     "sites": [
 
-		{
-            "key": "红果短剧",
-            "name": "🔥老张|红果短剧[短]",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/hongguo.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
   {
             "key": "短剧",
             "name": "🔥老张|聚合短剧[短]",
@@ -184,7 +173,26 @@
                 "里番动漫"
             ]
         },
-
+  {
+            "name": "📖富强┃听书",
+            "key": "TSty",
+            "type": 3,
+            "api": "csp_TStyAmns",
+	   "jar": "https://nos.netease.com/ysf/648866e65bfbae8010145f8abcc12f5f.png;md5;e43bbee3ea80d065623f8259025ad78e",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "name": "📖文明┃听书",
+            "key": "TStzg",
+            "type": 3,
+            "api": "csp_TStzgAmns",
+			 "jar": "https://nos.netease.com/ysf/648866e65bfbae8010145f8abcc12f5f.png;md5;e43bbee3ea80d065623f8259025ad78e",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
            {
       "key": "世界听书[听]",
       "name": "📚老张丨世界听书[听]",
