@@ -78,7 +78,7 @@ class Spider(Spider):
     global headers
 
     def getName(self):
-        return "首页"
+        return "棣栭〉"
 
     def init(self, extend):
         pass
@@ -152,11 +152,11 @@ class Spider(Spider):
 
     def homeContent(self, filter):
         result = {}
-        result = {"class": [{"type_id": "1", "type_name": "剧场"},
-                            {"type_id": "3", "type_name": "新剧"},
-                            {"type_id": "2", "type_name": "热播"},
-                            {"type_id": "7", "type_name": "星选"},
-                            {"type_id": "5", "type_name": "阳光"}],
+        result = {"class": [{"type_id": "1", "type_name": "鍓у満"},
+                            {"type_id": "3", "type_name": "鏂板墽"},
+                            {"type_id": "2", "type_name": "鐑挱"},
+                            {"type_id": "7", "type_name": "鏄熼€ "},
+                            {"type_id": "5", "type_name": "闃冲厜"}],
                   }
 
         return result
@@ -246,13 +246,13 @@ class Spider(Spider):
         name = self.extract_middle_text(code, "s1='", "'", 0)
         Jumps = self.extract_middle_text(code, "s2='", "'", 0)
 
-        content = '剧情：' + data['data']['introduction']
+        content = '鍓ф儏锛 ' + data['data']['introduction']
 
         area = data['data']['desc_tags'][0]
 
         remarks = data['data']['filing']
 
-        # 修复剧集只有一集的问题 - 检查theaters数据是否存在且不为空
+        # 淇鍓ч泦鍙湁涓€闆嗙殑闂 - 妫€鏌heaters鏁版嵁鏄惁瀛樺湪涓斾笉涓虹┖
         if 'theaters' in data['data'] and data['data']['theaters']:
             for sou in data['data']['theaters']:
                 id = sou['son_video_url']
@@ -260,12 +260,12 @@ class Spider(Spider):
                 bofang = bofang + str(name) + '$' + id + '#'
 
             bofang = bofang[:-1] if bofang.endswith('#') else bofang
-            xianlu = '星芽'
+            xianlu = '鏄熻娊'
         else:
-            # 如果没有theaters数据，检查是否有单个视频URL
+            # 濡傛灉娌℃湁theaters鏁版嵁锛屾鏌ユ槸鍚︽湁鍗曚釜瑙嗛URL
             if 'video_url' in data['data'] and data['data']['video_url']:
                 bofang = '1$' + data['data']['video_url']
-                xianlu = '星芽'
+                xianlu = '鏄熻娊'
             else:
                 bofang = Jumps
                 xianlu = '1'
