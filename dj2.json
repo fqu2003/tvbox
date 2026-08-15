@@ -14,17 +14,19 @@
             "filterable": 1,
             "playerType": 2
         },
-
-                {
-            "key": "星芽短剧[短]",
-            "name": "🔥老张丨星芽短剧[短]",
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/py/星芽短剧.py",
-            "filterable": 1,
-            "timeout": 60,
-            "quickSearch": 1,
+		 {
+            "key": "星芽短剧",
+            "name": "🪆星芽｜短剧py",
+            "type": 3,
+            "api": "https://d.kstore.dev/download/8344/py/星芽短剧.py",
             "searchable": 1,
-            "type": 3
-        },
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },       
+
+         
 
  {
             "key": "js七猫｜短剧",
