@@ -26,7 +26,79 @@
             "playerType": 2
         },       
 
-         
+       {
+      "key": "短剧巴士",
+      "name": "🐬[短剧]短剧巴士.py(关梯)",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/短剧巴士.py"
+    },
+    {
+      "key": "cj_360资源",
+      "name": "🐬[短剧]360",
+      "type": 1,
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "categories": [
+        "爽文短剧",
+        "现代都市",
+        "脑洞悬疑",
+        "年代穿越",
+        "古装仙侠",
+        "反转爽剧",
+        "女频恋爱",
+        "成长逆袭"
+      ]
+    },
+    {
+      "key": "映刻短剧",
+      "name": "🐬[短剧]映刻短剧.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/映刻短剧🍀TG @hshsjk9.py"
+    },
+    {
+      "key": "悟圣短剧",
+      "name": "🐬[短剧]悟圣短剧.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/悟圣短剧.py"
+    },
+    {
+      "key": "喜福网",
+      "name": "🐬[短剧]喜福短剧.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/喜福短剧.py"
+    },
+    {
+      "key": "smdj",
+      "name": "🐬[短剧]星芽短剧.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/星芽短剧.py"
+    },
+    {
+      "key": "hmjc",
+      "name": "🐬[短剧]河马剧场.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/河马剧场.py"
+    },
+    {
+      "key": "djjh",
+      "name": "🐬[短剧]短剧聚合.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/短剧聚合.py"
+    },
+    {
+      "key": "糯米短剧",
+      "name": "🐬[短剧]糯米短剧.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/糯米短剧.py"
+    },
+    {
+      "key": "毒舌短剧",
+      "name": "🐬[短剧]毒舌短剧.py(关梯)",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/毒舌短剧🍀TG @hshsjk9.py"
+    },  
 
  {
             "key": "js七猫｜短剧",
