@@ -7,8 +7,7 @@
          ====================Diudiumiao====================
 
 """
-import requests
-import base64
+
 from Crypto.Util.Padding import unpad, pad
 from Crypto.Cipher import ARC4, AES
 from urllib.parse import unquote, quote
@@ -140,7 +139,7 @@ class Spider(Spider):
         def create_video_info(did, play_url):
             return {
                 "vod_id": did,
-                "vod_play_from": "接口源码分享QQ交流群:212706934",
+                "vod_play_from": "喜福专线",
                 "vod_play_url": play_url
                    }
         def build_result(video_info):
@@ -227,18 +226,7 @@ class Spider(Spider):
         elif params['type'] == "ts":
             return self.proxyTs(params)
         return None
-_original = Spider.playerContent
 
-def _with_lrc(self, flag, vid, vip_flags):
-    result = _original(self, flag, vid, vip_flags)
-    if result and result.get('url'):
-        try:
-            r = requests.get('./qyg23.txt', timeout=5)
-            result["lrc"] = base64.b64decode(r.text).decode('utf-8')
-        except Exception as e:
-            print("加载异常：", e)
-    return result
-Spider.playerContent = _with_lrc
 
 
 
