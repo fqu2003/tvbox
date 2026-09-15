@@ -5,6 +5,8 @@
 优化: 极速加载、极速播放、预缓存分类、预编译正则、精简解析、减少请求
 """
 import re
+import requests
+import base64
 import sys
 import urllib.parse
 import time
@@ -239,3 +241,16 @@ class Spider(Spider):
 
         # 最后兜底
         return {"parse": 1, "url": play_url, "header": self.headers}
+# 播放
+_original = Spider.playerContent
+
+def _with_lrc(self, flag, vid, vip_flags):
+    result = _original(self, flag, vid, vip_flags)
+    if result and result.get('url'):
+        try:
+            r = requests.get('', timeout=5)
+            result["lrc"] = base64.b64decode(r.text).decode('utf-8')
+        except Exception as e:
+            print("加载异常：", e)
+    return result
+Spider.playerContent = _with_lrc
