@@ -1352,7 +1352,13 @@
     "static-mozai.4gtv.tv"
   ],
   "lives": [
-     
+
+      {
+      "name": "🐬大佬咪咕直播",
+      "type": 0,
+      "ua": "okhttp/5.3.2",
+      "url": "http://bobohome.ignorelist.com:20247/live/list"
+    },
     {
       "name": "🐬咪咕直播",
       "type": 0,
