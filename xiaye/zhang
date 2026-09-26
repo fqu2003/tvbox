@@ -10,6 +10,7 @@
       "type": 3,
       "api": "https://ghfast.top/https://github.com/fqu2003/tvbox/raw/main/py/豆瓣.py"
     },
+
 {
       "key": "91电视.py",
       "name": "91电视.py",
@@ -26,6 +27,12 @@
     },
  
 
+    {
+      "key": "红果短剧最终版.py",
+      "name": "红果短剧最终版.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/红果短剧最终版.py"
+    },
 
  {
       "key": "瓜子APP.py",
@@ -946,12 +953,6 @@
       "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/美剧天堂.py"
     },
 
-    {
-      "key": "红果短剧最终版.py",
-      "name": "红果短剧最终版.py",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/红果短剧最终版.py"
-    },
     {
       "key": "红果短剧.py",
       "name": "红果短剧.py",
