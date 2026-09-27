@@ -26,6 +26,18 @@
       "api": "https://ghfast.top/https://github.com/fqu2003/tvbox/raw/main/py/福建百事通秒播.py"
     },
  
+{
+      "key": "ytb-sabrOnly.py",
+      "name": "ytb-sabrOnly.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://github.com/fqu2003/tvbox/raw/main/py/ytb-sabrOnly.py"
+    },
+{
+      "key": "官方聚合.py",
+      "name": "官方聚合.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://github.com/fqu2003/tvbox/raw/main/py/官方聚合.py"
+    },
 
     {
       "key": "红果短剧最终版.py",
