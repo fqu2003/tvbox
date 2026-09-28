@@ -235,12 +235,63 @@
 
 
    {
-      "key": "麒麟影视.py",
-      "name": "麒麟影视.py",
+      "key": "暴风去广.py",
+      "name": "暴风去广.py",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/麒麟影视.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/暴风去广.py"
     },
 
+
+{
+      "key": "青麦影视.py",
+      "name": "青麦影视.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://github.com/fqu2003/tvbox/raw/main/py/青麦影视.py"
+    },
+
+
+{
+      "key": "咸鱼影视.py",
+      "name": "咸鱼影视.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://github.com/fqu2003/tvbox/raw/main/py/咸鱼影视.py"
+    },
+
+{
+      "key": "量子去广.py",
+      "name": "量子去广.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://github.com/fqu2003/tvbox/raw/main/py/量子去广.py"
+    },
+
+ {
+      "key": "藤1藤",
+      "name": "天神别腾讯",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
+    },
+    {
+      "key": "茫1茫",
+      "name": "天神别芒果",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
+    },
+    {
+      "key": "腾讯备",
+      "name": "🦐腾讯",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
+      "ext": "https://fastlink.cokey.xyz/f/1MOEc5/%E8%85%BE%E8%85%BE.js"
+    },
+    {
+      "key": "芒果备",
+      "name": "🦐芒果",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
+      "ext": "https://fastlink.cokey.xyz/f/pm88tj/%E8%8A%92%E6%9E%9C.js"
+    },
 
   
     {
