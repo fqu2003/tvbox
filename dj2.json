@@ -311,7 +311,43 @@
         "type": "list"
       }
     },
-
+{
+      "key": "悦听吧.py",
+      "name": "悦听吧.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/悦听吧.py"
+    },
+ {
+      "key": "枫叶音乐.py",
+      "name": "枫叶音乐.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/枫叶音乐.py"
+    },
+ {
+      "key": "影子音乐.py",
+      "name": "影子音乐.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/影子音乐.py"
+    },
+    
+ {
+      "key": "酷我音乐.py",
+      "name": "酷我音乐.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/酷我音乐.py"
+    },
+ {
+      "key": "音乐聚合.py",
+      "name": "音乐聚合.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/音乐聚合.py"
+    },
+{
+      "key": "千千音乐.py",
+      "name": "千千音乐.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/千千音乐.py"
+    },
       {
             "name": "🎼老张丨酷狗音乐[听]",
             "key": "酷狗｜音乐[听]",
