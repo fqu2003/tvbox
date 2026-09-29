@@ -26,26 +26,31 @@
       "api": "https://ghfast.top/https://github.com/fqu2003/tvbox/raw/main/py/福建百事通秒播.py"
     },
  
-{
-      "key": "ytb-sabrOnly.py",
-      "name": "ytb-sabrOnly.py",
-      "type": 3,
-      "api": "https://ghfast.top/https://github.com/fqu2003/tvbox/raw/main/py/ytb-sabrOnly.py"
-    },
+
 {
       "key": "官方聚合.py",
       "name": "官方聚合.py",
       "type": 3,
       "api": "https://ghfast.top/https://github.com/fqu2003/tvbox/raw/main/py/官方聚合.py"
     },
-
-    {
+{
+            "key": "聚合短剧",
+            "name": "聚合｜短剧",
+            "type": 3,
+            "api": "https://193.075999.xyz/TV/ck/聚合短剧.js",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+  
+ {
       "key": "红果短剧最终版.py",
       "name": "红果短剧最终版.py",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/红果短剧最终版.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/GuoGuo.py"
     },
-
  {
       "key": "瓜子APP.py",
       "name": "瓜子APP.py",
