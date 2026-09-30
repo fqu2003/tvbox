@@ -177,6 +177,26 @@
       "type": 3,
       "api": "https://ghfast.top/https://github.com/fqu2003/tvbox/raw/main/py/秒看TV.py"
     },
+{
+      "key": "影视.py",
+      "name": "影视.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://github.com/fqu2003/tvbox/raw/main/py/影视.py"
+    },
+
+{
+      "key": "绅士影视.py",
+      "name": "绅士影视.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://github.com/fqu2003/tvbox/raw/main/py/绅士影视.py"
+    },
+
+{
+      "key": "电影.py",
+      "name": "电影V.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://github.com/fqu2003/tvbox/raw/main/py/电影.py"
+    },
 
 {
       "key": "韩圈.py",
@@ -184,6 +204,9 @@
       "type": 3,
       "api": "https://ghfast.top/https://github.com/fqu2003/tvbox/raw/main/py/韩圈.py"
     },
+
+
+
 
 {
       "key": "未来影院.py",
@@ -1174,6 +1197,13 @@
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/275听书.py"
     },
+{
+      "key": "红果听书.py",
+      "name": "红果听书.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://github.com/fqu2003/tvbox/raw/main/py/红果听书"
+    },
+
 {
       "key": "听书网456.py",
       "name": "听书网456.py",
