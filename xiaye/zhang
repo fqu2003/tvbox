@@ -155,19 +155,8 @@
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/4K影视.py"
     },
-    {
-      "key": "4K影视仓.py",
-      "name": "4K影视仓.py",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/4K影视仓.py"
-    },
+   
 
-{
-      "key": "咸鱼影视.py",
-      "name": "咸鱼影视.py",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/咸鱼影视.py"
-    }, 
 
 {
       "key": "追剧秒播.py",
@@ -181,12 +170,14 @@
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/卵石影视.py"
     },
+
 {
       "key": "秒看TV.py",
       "name": "秒看TV.py",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/秒看TV.py"
     },
+
 {
       "key": "韩圈.py",
       "name": "韩圈.py",
@@ -195,7 +186,7 @@
     },
 
 {
-      "key": ".py",
+      "key": "未来影院.py",
       "name": "未来影院.py",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/未来影院(关梯).py"
