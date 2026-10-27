@@ -39,12 +39,7 @@
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/红果20261025.py"
     },
-{
-      "key": "红果短剧5.py",
-      "name": "🔥老张|红果短剧5.py",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/红果完整分类筛选版.py.py"
-    },
+
 
 		
   {
@@ -128,18 +123,7 @@
             "genre": "shortdrama"
         },
 
-        {
-            "name": "🔶嗷嗚｜嗷嗚｜短剧",
-            "key": "嗷嗚｜短剧[短]",
-            "type": 3,
-            "api": "csp_HgggAmns",
-          "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jar/public-utilUpload-w2kQWLoDRXY1DmKEn5EWu5.jar",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "short_play"
-        },
+      
     {
       "name": "🔶嗷嗚丨拜拜丨短剧",
       "key": "拜拜|短剧[短]",
@@ -214,35 +198,37 @@
                 "里番动漫"
             ]
         },
-  {
-            "name": "📖富强┃听书[听]",
+         {
+            "name": "📖嗷嗚┃听书",
+            "key": "TSaowu",
+            "type": 3,
+            "api": "csp_TSaowuAmns",
+			 "jar":"https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png;md5;d93049ba6615eab01b69a52ff03c02c9",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "name": "📖富强┃听书",
             "key": "TSty",
             "type": 3,
             "api": "csp_TStyAmns",
-	   "jar": "https://nos.netease.com/ysf/648866e65bfbae8010145f8abcc12f5f.png;md5;e43bbee3ea80d065623f8259025ad78e",
+			 "jar":"https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png;md5;d93049ba6615eab01b69a52ff03c02c9",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
-            "name": "📖文明┃听书[听]",
+            "name": "📖文明┃听书",
             "key": "TStzg",
             "type": 3,
             "api": "csp_TStzgAmns",
-			 "jar": "https://nos.netease.com/ysf/648866e65bfbae8010145f8abcc12f5f.png;md5;e43bbee3ea80d065623f8259025ad78e",
+			 "jar":"https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png;md5;d93049ba6615eab01b69a52ff03c02c9",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
+            "changeable": 1
         },
-        {
-            "key": "听书世界",
-            "name": "📚老张丨听书世界[听]",
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/听书世界.py",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },  
+       
   {
             "key": "275听书",
             "name": "📚老张丨275听书[听]",
@@ -263,7 +249,15 @@
             "type": 3
         },  
 
-
+      {
+            "key": "听书世界",
+            "name": "📚老张丨听书世界[听]",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/听书世界.py",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },  
 		
 		{
             "key": "Cat_喜马拉雅",
