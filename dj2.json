@@ -199,7 +199,7 @@
             ]
         },
          {
-            "name": "📚嗷嗚┃听书[书]",
+            "name": "📚嗷嗚┃听书[听书]",
             "key": "TSaowu",
             "type": 3,
             "api": "csp_TSaowuAmns",
@@ -209,7 +209,7 @@
             "changeable": 1
         },
         {
-            "name": "📚富强┃听书[书]",
+            "name": "📚富强┃听书[听书]",
             "key": "TSty",
             "type": 3,
             "api": "csp_TStyAmns",
@@ -220,7 +220,7 @@
         },
       {
             "key": "听友听书",
-            "name": "📚┆听友听书┆[书]",
+            "name": "📚┆听友听书┆[听书]",
             "type": 3,
             "api": "csp_TingTingyou",
             "jar": "https://img.51shazhu.com/autoupload/g1b6f/20261024/Fczo/0X0/10241314.png;md5;c1978e5cec469f66f07efd37d39ec26a",
@@ -233,7 +233,7 @@
         },
         {
             "key": "世界听书",
-            "name": "📚┆世界听书┆[书]",
+            "name": "📚┆世界听书┆[听书]",
             "type": 3,
             "api": "https://oss-v1.wangmeipo.cn/236/世界听书.py",
             "style": {
@@ -242,7 +242,7 @@
         },
         {
             "key": "堇夏听书",
-            "name": "📚┆堇夏听书┆[书]",
+            "name": "📚┆堇夏听书┆[听书]",
             "type": 3,
             "api": "csp_TingJinxia",
            "jar": "https://img.51shazhu.com/autoupload/g1b6f/20261024/Fczo/0X0/10241314.png;md5;c1978e5cec469f66f07efd37d39ec26a",
@@ -258,7 +258,7 @@
 		
   {
             "key": "275听书",
-            "name": "📚老张丨275听书[书]",
+            "name": "📚老张丨275听书[听书]",
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/275听书.py",
             "filterable": 1,
             "quickSearch": 1,
@@ -268,7 +268,7 @@
 
          {
             "key": "悦听吧",
-            "name": "📚老张丨悦听吧[书]",
+            "name": "📚老张丨悦听吧[听书]",
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/悦听吧.py",
             "filterable": 1,
             "quickSearch": 1,
@@ -277,7 +277,7 @@
         },  
         {
             "key": "博看听书",
-            "name": "📚┆博看听书┆[书]",
+            "name": "📚┆博看听书┆[听书]",
             "type": 3,
             "api": "csp_TingBokan",
             "jar": "https://img.51shazhu.com/autoupload/g1b6f/20261024/Fczo/0X0/10241314.png;md5;c1978e5cec469f66f07efd37d39ec26a",
@@ -290,7 +290,7 @@
         },
       {
             "key": "听书世界",
-            "name": "📚老张丨听书世界[书]",
+            "name": "📚老张丨听书世界[听书]",
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/听书世界.py",
             "filterable": 1,
             "quickSearch": 1,
@@ -300,7 +300,7 @@
 		
 		{
             "key": "Cat_喜马拉雅",
-            "name": "📚老张丨喜马听书[书]",
+            "name": "📚老张丨喜马听书[听书]",
             "type": 3,
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/js/ximalaya_ting.js",
             "searchable": 1,
