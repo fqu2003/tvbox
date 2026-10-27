@@ -199,7 +199,7 @@
             ]
         },
          {
-            "name": "📖嗷嗚┃听书",
+            "name": "📚嗷嗚┃听书[听]",
             "key": "TSaowu",
             "type": 3,
             "api": "csp_TSaowuAmns",
@@ -209,7 +209,7 @@
             "changeable": 1
         },
         {
-            "name": "📖富强┃听书",
+            "name": "📚富强┃听书[听]",
             "key": "TSty",
             "type": 3,
             "api": "csp_TStyAmns",
@@ -218,17 +218,57 @@
             "quickSearch": 1,
             "changeable": 1
         },
-        {
-            "name": "📖文明┃听书",
-            "key": "TStzg",
+       {
+            "key": "TingBook",
+            "name": "📚┆六月┆[听]",
             "type": 3,
-            "api": "csp_TStzgAmns",
-			 "jar":"https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png;md5;d93049ba6615eab01b69a52ff03c02c9",
+            "api": "csp_TingBook",
+            "jar": "https://qiniu.gongxueyun.com/upload/1842218/2026-10-26/report/813941973_2_1793036976174.jar;md5;f61cb13d06f58ea56ce915009bbd1502",
             "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "indexs": 0,
+            "ext": "https://app.365ting.com",
+            "style": {
+                "type": "list"
+            }
         },
-       
+        {
+            "key": "TingBookJinXia",
+            "name": "📚┆堇夏┆[听]",
+            "type": 3,
+            "api": "csp_TingBookJinXia",
+            "jar": "https://qiniu.gongxueyun.com/upload/1842218/2026-10-26/report/813941973_2_1793036976174.jar;md5;f61cb13d06f58ea56ce915009bbd1502",
+            "searchable": 1,
+            "filterable": 1,
+            "indexs": 0,
+            "ext": "https://m.ting15.com",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "TingShijie",
+            "name": "📚┆听界┆[听]",
+            "type": 3,
+            "api": "csp_TingShijie",
+            "jar": "https://qiniu.gongxueyun.com/upload/1842218/2026-10-26/report/813941973_2_1793036976174.jar;md5;f61cb13d06f58ea56ce915009bbd1502",
+            "searchable": 1,
+            "indexs": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "TingYou",
+            "name": "📚┆听友┆[听]",
+            "type": 3,
+            "api": "csp_TingYou",
+           "jar": "https://qiniu.gongxueyun.com/upload/1842218/2026-10-26/report/813941973_2_1793036976174.jar;md5;f61cb13d06f58ea56ce915009bbd1502",
+            "searchable": 1,
+            "indexs": 0,
+            "style": {
+                "type": "list"
+            }
+        },
   {
             "key": "275听书",
             "name": "📚老张丨275听书[听]",
