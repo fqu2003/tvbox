@@ -16,16 +16,30 @@
 		
    {
       "key": "红果短剧11.py",
-      "name": "🔥老张|红果短剧修复.py",
+      "name": "🔥老张|红果短剧1.py",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/红果短剧.py"
     },
  {
-      "key": "红果短剧.py",
-      "name": "🔥老张|红果短剧.py",
+      "key": "红果短剧2.py",
+      "name": "🔥老张|红果短剧2.py",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/GuoGuo.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/红果短剧_修复版.py"
     },
+{
+      "key": "红果短剧3.py",
+      "name": "🔥老张|红果短剧3.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/hgtv.py"
+    },
+
+{
+      "key": "红果短剧4.py",
+      "name": "🔥老张|红果短剧4.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/红果20261025.py"
+    },
+		
   {
             "key": "短剧",
             "name": "🔥老张|聚合短剧[短]",
@@ -213,7 +227,15 @@
             "quickSearch": 1,
             "changeable": 0
         },
-         
+        {
+            "key": "听书世界",
+            "name": "📚老张丨听书世界[听]",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/听书世界.py",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },  
   {
             "key": "275听书",
             "name": "📚老张丨275听书[听]",
@@ -224,6 +246,18 @@
             "type": 3
         },
 
+         {
+            "key": "悦听吧",
+            "name": "📚老张丨悦听吧[听]",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/悦听吧.py",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },  
+
+
+		
 		{
             "key": "Cat_喜马拉雅",
             "name": "📚老张丨喜马听书[听]",
@@ -254,8 +288,20 @@
         "ratio": 1.597
       }
     },
+       {
+            "key": "皮狗DJ站.py",
+            "name": "🎵｜皮狗DJ站[听]",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/皮狗DJ站.py"
+        },
+         {
+            "key": "36DJ.py",
+            "name": "🎵｜36DJ[听]",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/36DJ.py"
+        },
 
-  
+		
     {
             "key": "酷我.py",
             "name": "🎵丰玲｜酷我音乐[听]",
@@ -365,7 +411,13 @@
             "changeable": 0,
             "genre": "music"
         },
-        
+          {
+            "key": "收藏经典歌曲.py",
+            "name": "🎵｜收藏经典歌曲[听]",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/收藏经典歌曲.py"
+        },
+
          {
             "key": "哔哩哔哩演唱会",
             "name": "🎼老张丨哔哩音乐[听]",
