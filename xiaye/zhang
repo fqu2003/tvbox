@@ -44,17 +44,23 @@
             "filterable": 1,
             "playerType": 2
         },
-  {
-      "key": "红果短剧1.py",
-      "name": "🔥老张|红果短剧1.py",
+{
+      "key": "红果修",
+      "name": "💥红果｜短剧py",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/红果短剧.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/红果-合并集数.py"
+    },
+{
+      "key": "吐噜4k",
+      "name": "💥吐噜4k｜影视py",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/红果-合并集数.py"
     },
  {
       "key": "瓜子APP.py",
       "name": "瓜子APP.py",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/瓜子APP.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/咕噜4K修复版.py"
     },
 
   {
