@@ -2,6 +2,13 @@
  
    "logo": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/jpg/logo.png",
     "sites": [
+{
+      "key": "红果修",
+      "name": "💥红果｜合并版py",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/红果-合并集数.py"
+    },
+		
   {
             "key": "聚合短剧",
             "name": "🔥老张|聚合｜短剧",
@@ -14,30 +21,13 @@
             "playerType": 2
         },
 		
-   {
-      "key": "红果短剧11.py",
-      "name": "🔥老张|红果短剧1.py",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/红果短剧.py"
-    },
- {
-      "key": "红果短剧2.py",
-      "name": "🔥老张|红果短剧2.py",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/红果短剧_修复版.py"
-    },
-{
-      "key": "红果短剧3.py",
-      "name": "🔥老张|红果短剧3.py",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/hgtv.py"
-    },
+
 
 {
       "key": "红果短剧4.py",
-      "name": "🔥老张|红果短剧4.py",
+      "name": "🔥老张|红果短剧.py",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/红果20261025.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/红果短剧修复版.py"
     },
 
 
@@ -311,6 +301,15 @@
         "ratio": 1.597
       }
     },
+     {
+      "key": "水獭音乐",
+      "name": "🎵｜水獭音乐[听]",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fqu2003/tvbox/refs/heads/main/py/水獭音乐.py"
+    },
+     
+
+		
        {
             "key": "皮狗DJ站.py",
             "name": "🎵｜皮狗DJ站[听]",
